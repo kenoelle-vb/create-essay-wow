@@ -1,5 +1,6 @@
 from langchain_community.document_loaders import TextLoader
 import streamlit as st
+from langchain.text_splitter import RecursiveCharacterTextSplitter
 
 loader = TextLoader("dummy.txt")
 data = loader.load()
