@@ -23,9 +23,11 @@ llm = ChatGroq(groq_api_key="gsk_oWevZ32OOyaupynRZG7iWGdyb3FYMhg1yUw3bwkjfbttS5H
 #embeddings = FastEmbedEmbeddings()
 #vector_store = Chroma.from_documents(documents, embeddings)
 
+number = 2
+
 title = st.text_input("")
 client = Groq(api_key="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")
-summary= f"Answer the question from {title}, only answer from {chunks[1]}"
+summary= f"Answer the question from {title}, only answer from {chunks[number]}"
 final = client.chat.completions.create(messages=[{"role":"user", "content":summary,}],model="llama3-8b-8192")
 
 final = final.choices[0].message.content
