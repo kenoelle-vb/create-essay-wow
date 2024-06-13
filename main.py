@@ -25,7 +25,7 @@ llm = ChatGroq(groq_api_key="gsk_oWevZ32OOyaupynRZG7iWGdyb3FYMhg1yUw3bwkjfbttS5H
 
 title = st.text_input("")
 client = Groq(api_key="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")
-summary= f"Answer the question from {title}, only answer from {chunks[0]}"
+summary= f"Answer the question from {title}, only answer from {chunks[1]}"
 final = client.chat.completions.create(messages=[{"role":"user", "content":summary,}],model="llama3-8b-8192")
 
 final = final.choices[0].message.content
