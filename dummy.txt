@@ -1,1 +1,1898 @@
-this is a dummy text file lol
+PRODUK DOMESTIK REGIONAL BRUTO
+KOTA DEPOK
+MENURUT PENGELUARAN 201 4-2018
+ISBN: 978-602-0925-79-0
+No. Publikasi : 32760.1904
+Katalog: 9302023.3276
+Ukuran Buku : 17,6 X 25 cm
+Jumlah Halaman : xiv + 71 halaman
+Naskah:
+BadanPusatStatistikKota Depok
+Penyunting :
+BadanPusatStatistikKota Depok
+Desain Kover oleh :
+BadanPusatStatistikKota Depok
+Penerbit:
+BPS Kota Depok
+Pencetak :
+CV.Coqelat Visitama
+Sumber Ilustrasi :
+BadanPusatStatistikKota Depok
+Dilarang mengumumkan, mendistribusikan, mengkomunikasikan, dan/atau
+menggandakan sebagian atau seluruh isi b uku ini untuk tujuan komersial tanpa izin
+tertulis dari Badan Pusat Statistikhttps://depokkota.bps.go.id
+Tim Penyusun
+PRODUK DOMESTIK REGIONAL BRUTO
+KOTA DEPOK
+MENURUT PENGELUARAN 201 4-2018
+Penanggung Jawab Umum :
+Ahmad Muhammad Saleh , SE
+Penanggung Jawab Teknis :
+Bambang Pamungkas , S.ST
+.
+Editor:
+Bisma Putra Adipujatama, S.Si
+Edi Pramono
+Penulis dan Pengolahan Data :
+Bambang Pamungkas, S.ST
+Desain/Lay out :
+Ario Priambodo ,A.Mdhttps://depokkota.bps.go.id
+https://depokkota.bps.go.id
+Produk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 2014 -2018vKATA PENGANTAR
+Produk Domestik Regional Bruto (PD RB) merupakan salah satu
+perangkat dataekonomi yang dapat digunakan untuk mengevaluasi kinerja
+pembangunan ekonomi suatu wilayah dalam hal iniKota Depok .Perangkat
+data ini dapat puladigunakan untuk kepentingan dan tujuan lain, sepertisebagai
+dasar pengembangan model -model ekonomi dalam rang ka menyusun formulasi
+kebijakan, tingkat percepatan uangberedar (velocity of money ),pendalaman se ktor
+keuangan ( finacial deepening ),penetapan pajak, kajian ekspor dan impor d an
+sebagainya.
+Publikasi ini secara khusus membahas mengenai PDRB menurut
+pendekatan pengeluaran/permintaan akhir. Pendekatan ini dirinci menjadi
+beberapa komponen, yaitu: Peng eluaran Konsumsi Rumah Tangga,
+Pengeluaran Konsumsi Lembaga Non Profit yang Melayani Rumah Tangga,
+Pengeluaran Konsumsi Pemerintah, Investasi (Pem bentukan Modal Tetap
+Bruto dan Perubahan Inventori), Ekspor Luar Negeri, Impor Luar Negeri, serta
+Ekspor Neto Antar Daerah (ekspor antar daerah dikurangi dengan impor antar
+daerah). Data PDRB dalam p ublikasi ini mengunakan tahun dasar 2010, serta
+sudah men erapkan konsep System of National Accounts 2008 seperti yang
+direkomendasikan oleh United Nations .
+Kepada sel uruhpihak yang telah saling membantu dan bekerjasama
+dalampenyusunan publikasi ini diucapkan terima kasih. Semoga kerjasama yang
+telah terjalin selama ini dapat terus berlanjut serta dapat ditingkatkan di masa -
+masa mendatang.
+Terakhir, disadari bahwa dat a dan informasi yang disajikan dalam
+publikasi ini masih memerlukan penyempurnaan. Oleh karena itu, setiap
+masukan yang bersifat konstruktif sanga t dihargai demi penyempurnaan isi
+publikasi ini selanjutnya. Akhirnya, semoga publikasi ini bermanfaat bagi se mua
+pihak yang memerlukannya.
+Depok,    Agustus  201 9
+Badan Pusat Statistik Kota Depok
+Kepala,
+Ahmad Muhammad Saleh, SE
+https://depokkota.bps.go.id
+viProduk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 2014 -2018https://depokkota.bps.go.id
+Produk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 2014 -2018viiDAFTAR ISI
+Halaman
+KATA PENGANTAR ................................ ................................ ....................... v
+DAFTAR ISI ................................ ................................ ................................ .........vii
+DAFTAR TABEL ................................ ................................ ................................ ix
+DAFTAR GRAFIK ................................ ................................ .............................. xi
+DAFTAR LAMPIRAN ................................ ................................ ....................... xiii
+BAB I.  PE NDAHULUAN ................................ ................................ ................ 1
+1.2. Pengertian Produk Domestik Regional Bruto (PDRB) .............. 3
+1.2. Perubahan Tahun Dasar PDRB ................................ ..................... 6
+BAB II. METODA ESTIMASI DAN SUMBER DATA .............................. 11
+2.1.Pengeluaran Konsumsi Akhir Rumahtangga (PK -RT)............... 13
+2.2.Pengeluaran Konsumsi Akhir Lembaga Non Profit Yang
+Melayani Rumahtangga (PK -LNPRT)................................ ..........15
+2.3. Pengeluaran Konsumsi Akhir Pemerintah (PK -P)...................... 17
+2.4. Pembentukan Moda l Tetap Bruto (PMTB) ................................ ..19
+2.5. Perubahan Inventori (PI) ................................ ................................ 22
+2.6. Ekspor Impor ................................ ................................ ................... 24
+BAB III. TINJAUAN PEREKONOMIAN KOTA DEPOK
+MENURUT PDRB PENGELUARAN TAHUN 201 4-2018.....27
+3.1.Perkembangan PDRB Pengeluaran ................................ ............... 29
+3.2.Perkembangan Komponen PDRB Pengeluaran .......................... 36
+3.2.1.Konsumsi Akhir Rumahtangga ................................ ...........37
+3.2.2.Konsumsi Akhir LNPRT ................................ ..................... 40
+3.2.3. Konsumsi Akhir Pemerintah ................................ ............... 41
+3.2.4.Pembentukan Modal Tetap Bruto (PMTB) ..................... 44
+3.2.5. Perubahan Inventori ................................ ............................. 46
+3.2.6.Ekspor  Barang dan Jasa ................................ ...................... 47https://depokkota.bps.go.id
+viiiProduk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 2014 -2018BAB IV. PERKEMBANGAN AGREGAT PDRB PENGELUARAN
+KOTA DEPOK ................................ ................................ ................. 49
+4.1. PDRB (Nominal) ................................ ................................ .........51
+4.2.Proporsi Pengeluaran Konsumsi Akhir Terhadap PDRB ....52
+BAB V PENUTUP ................................ ................................ ............................... 53
+LAMPIRAN ................................ ................................ ................................ ...........57
+DAFTAR PUSTAKA ................................ ................................ ........................... 69https://depokkota.bps.go.id
+Produk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 2014 -2018ixDAFTAR TABEL
+Halaman
+Tabel 1. PDRB Atas Dasar Harga Berlaku Menurut Pengeluaran, Kota
+DepokTahun 201 4-2018................................ ................................ ..30
+Tabel 2. PDRB Atas Dasar Harga Konstan 2010 Menurut
+Pengeluaran, Kota Depok Tahun2014-2018................................ ..31
+Tabel 3. Distribusi PDRB atas Dasar Harga Berlaku Menurut
+Pengeluaran, Kota Depok Tahun2014-2018................................ ..33
+Tabel 4. Laju Pertumbuhan PDRB ADHK 201 0Menurut Pengeluaran,
+Kota Depok Tahun2014-2018................................ ......................... 35
+Tabel 5. Indeks Implisit PDRB Menurut Pengeluaran Kota Depok ,
+Tahun2014-2018................................ ................................ ................. 36
+Tabel 6. Perkembangan Penggunaan Konsumsi Akhir Rumah Tangga ,
+Kota Depok Tahun2014-2018................................ ......................... 38
+Tabel 7. Struktur Penggunaan Konsumsi Akhir Rumah Tangga Kota
+Depok, Tahun2014-2018................................ ................................ ..39
+Tabel 8. Pertumbuhan Implisit (Indeks Harg a)Pengeluaran Konsumsi
+Akhir Rumah Tangga Kota Depok , Tahun2014-2018................ 40
+Tabel 9. Perkembangan Penggunaan Konsumsi LNPRT Kota Depok ,
+Tahun2014-2018................................ ................................ ................. 41
+Tabel 10. Perkembangan Pengeluaran Konsumsi Akhir Pemerintah
+Kota Depok , Tahun2014-2018................................ ........................ 43
+Tabel 11.Perkembangan dan Struktur PMTB Kota Depok Tahun2014-
+2018................................ ................................ ................................ .......45
+Tabel 12. Perkembangan dan Struktur Perubahan Inventori Kota
+Depok, Tahun2014-2018................................ ................................ ..46https://depokkota.bps.go.id
+xProduk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 2014 -2018Tabel 13. Proporsi Total Pengeluaran Konsumsi Akhir terhadap PDRB
+Kota  Depok, 2014-2018................................ ................................ ....52https://depokkota.bps.go.id
+Produk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 2014 -2018xiDAFTAR GRAFIK
+Halaman
+Grafik 1. PDRB atas dasar harga Berlaku Menurut Pengeluaran, Kota
+Depok,2014-2018................................ ................................ ............... 30
+Grafik 2. PDRB atas dasar harga Konstan 2010 Menurut Pengeluaran,
+Kota Depok ,2014-2018................................ ................................ .....32
+Grafik 3. Perbandingan PDRB atas dasar harga Berlaku dan at as dasar
+harga Konstan 2010 Menurut Pengeluaran, Kota Depok 2014-
+2018................................ ................................ ................................ .......33
+Grafik 4. Pertumbuhan PDRB atas dasar harga Konstan 2010 Menurut
+Pengeluaran, Kota Depok ,2014-2018................................ ............. 35https://depokkota.bps.go.id
+xiiProduk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 2014 -2018https://depokkota.bps.go.id
+Produk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 2014 -2018xiiiDAFTAR LAMPIRAN
+Halaman
+Tabel 1. Produk Do mestik Regional Bruto Atas Dasar Harga Berlaku
+Menurut Pengeluaran, Kota Depok Tahun2014-2018................. 59
+Tabel 2. Produk Domestik Regional Bruto Atas Dasar Harga Konstan
+Menurut Pengeluaran, Kota Depok 2014-2018.............................. 60
+Tabel  3. Disribusi Persentase Produk Domestik Regional Bruto Atas
+Dasar Harga Berlaku Menurut Pengeluaran, Kota Depok
+2014-2018................................ ................................ ............................. 61
+Tabel 4. Disribusi Pe rsentase Produk Domestik Regional Bruto Atas
+Dasar Harga Konstan 2010Menurut Pengeluaran, Kota
+Depok2014-2018................................ ................................ ................ 62
+Tabel 5. Laju Pertumbuhan Produk Domestik Regional Bruto Atas
+Dasar Harga Berlaku Menurut Pengeluaran, Kota Depok
+2014-2018................................ ................................ ............................. 63
+Tabel 6. Laju Pertumbuhan Produk Domestik Regional Bruto Atas
+Dasar Harga Konstan 2010Menurut Pengeluaran, Kota
+Depok,2014-2018................................ ................................ ............... 64
+Tabel 7. Indeks Perkembang an Produk Domestik Regional Bruto Atas
+Dasar Harga Berlaku Menurut Pengeluaran, Kota Depok ,
+2014-2018................................ ................................ ............................. 65
+Tabel 8. Indeks Perkembangan Produk Domestik Regional Bruto Atas
+Dasar Harga Konstan Menurut Pengeluaran, Kota Depok
+2014-2018................................ ................................ ............................. 66
+Tabel 9.Indeks Per kembangan Implisit Produk Domestik Regional
+Bruto (2010=100) Menurut Pengeluaran, Kota Depok 2014-
+2018................................ ................................ ................................ .......67https://depokkota.bps.go.id
+xivProduk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 2014 -2018Tabel 10. Laju Pertumbuhan Indeks Harga Implisit Produk Domestik
+Regional Bruto (2010=100) Menurut Pengeluaran, Kota
+Depok2014-2018................................ ................................ ................68https://depokkota.bps.go.id
+Produk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 201 4-20181BAB I
+PENDAHULUANhttps://depokkota.bps.go.id
+2Produk Domestik Regional Bru to Kota Depok Menurut Pengeluaran 201 4-2018https://depokkota.bps.go.id
+Produk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 201 4-201831.1PENGERTIAN PRODUK DOMESTIK REGIONAL
+BRUTO (PDRB)
+Produk Domestik Regional Bruto menurut pengeluaran (PDRB
+Pengeluaran) merupakan salah satu bentuk tampilan data ekonomi suatu
+wilayah, di samping bentuk tampilan lain seperti PD RB menurut lapangan
+usaha, Tabel Input -Output, Sistem Neraca Sosial Ekonomi, dan Neraca Arus
+Dana. Di dalam sistem kerangka kerja ( frame work ) data ekonomi suatu wilayah,
+PDRB Pengeluaran merupakan ukuran dasar ( basic measure ) yang
+menggambarkan penggunaan atas barang dan jasa ( product) yang dihasilkan
+melalui aktivitas produksi. Dalam konteks ini, PDRB Pengeluaran itu
+menggambarkan hasil “akhir” dari proses produksi yang berlangsung dalam
+batas-batas teritori suatu wilayah. Berbagai jenis barang dan jasa a khir tersebut
+akan digunakan untuk memenuhi permintaan akhir oleh pelaku ekonomi
+domestik maupun pelaku ekonomi dari luar wilayah bahkan dari luar negeri.
+Beberapa agregat penting dapat diturunkan dari PDRB Pengeluaran ini seperti
+variabel Pengeluaran Kons umsi Akhir, pembentukan modal tetap bruto atau
+investasi fisik, serta ekspor dan impor.
+Penghitungan PDRB melalui pendekatan pengeluaran ( expenditure ) tidak
+terlepas dari penghitungan PDRB melalui pendekatan lapangan usaha
+(production). Sungguhpun demikia n, PDRB Pengeluaran diestimasi secara
+independen dengan menggunakan data dasar yang relatif berbeda. PDRB
+Produksi menggambarkan aktivitas produksi, serta pendapatan yang diterima
+pemilik faktor produksi yang terlibat (balas jasa fa ktor produksi)1. Sedangk an
+PDRB Pengeluaran menggambarkan aktivitas pengeluaran yang dilakukan para
+pelaku ekonomi untuk mendapatkan barang dan jasa yang diproduksi tersebut.
+Melalui PDRB Pengeluaran juga dapat dilihat keterkaitannya dengan penyediaan
+barang dan jasa yang berasal dari domestik maupun dari impor. Melalui
+hubungan ini terlihat titik keseimbangan makro antara sisi penyediaan ( supply
+side)dan sisi permintaan ( demand side) barang dan jasa.
+Secara konsep2penghitungan PDRB dari sisi yang berb eda di atas
+dimaksudkan untuk: i) memastikan konsistensi dan kelengkapan di dalam
+membuat estimasi; ii) memberi manfaat lebih di dalam melakukan analisis; dan
+iii) mengontrol kelayakan hasil estimasi. Secara teoritis, kedua pendekatan
+1Termasuk di dalamnya penyusutan dan pajak tidak langsung “neto” (pajak tidak langsung dikurangi subsidi)
+2Handbook of National Accounting.  Accounting for Production: Sources and Methods (Series F no 30 United
+Nations)https://depokkota.bps.go.id
+4Produk Domestik Regional Bru to Kota Depok Menurut Pengeluaran 201 4-2018tersebut akan menghas ilkan nilai yang sama be sar (equivalent). Namun karena
+pendekatan estimasi dan metoda pengukuran yang digunakan berbeda, maka
+akan muncul selisih statistik ( statistical descrepancy ).
+Dengan demikian PDRB Pengeluaran menjelaskan besarnya nilai barang
+dan jasa(output)yang dihasilkan dalam wilayah domestik, yang digunakan
+sebagai konsumsi “akhir” oleh masyarakat. Secara spesifik, yang dimaksud
+dengan konsumsi akhir adalah penggunaan barang dan jasa yang tidak
+dimaksukan untuk diproses lebih lanjut (dikon sumsi habis). Penggunaan produk
+akhir tersebut diwujudkan dalam bentuk “permintaan akhir”.  Permintaan akhir
+yang dimaksud terdiri dari komponen -komponen Pengeluaran Konsumsi Akhir
+Rumahtangga (PK -RT), Pengeluaran Konsumsi Akhir Lembaga Non Profit
+Yang Mel ayani Rumahtangga (PK -LNPRT), Pengeluaran Konsumsi Akhir
+Pemerintah (PK -P), Pembentukan Modal Tetap Bruto (PMTB), Perubahan
+Inventori (PI), serta komponen Ekspor barang dan jasa.
+Dalam menghasilkan barang dan jasa untuk memenuhi permintaan akhir
+masyaraka t tersebut, tidak terlep as dari ketergantungan pada produk yang
+berasal dari dari luar wilayah atau luar negeri (impor). Berbagai barang dan jasa
+yang menjadi konsumsi akhir masyarakat di dalamnya akan terkandung produk
+impor. Sehingga dalam mengukur besar nya nilai tambah domesti k (PDRB),
+komponen impor barang dan jasa harus dikeluarkan atau dikurangkan dari
+penghitungan konsumsi atau permintaan akhir. Tingginya permintaan tidak
+selalu diimbangi oleh penyediaan domestik, sehingga kondisi ini menjadi
+peluangbagi masuknya produk im por. Data empiris menunjukkan bahwa dari
+waktu ke waktu, perdagangan produk impor terus berkembang baik secara
+kuantitas, nilai, maupun ragamnya.
+Secara konsep, PDRB Produksi (Y) sama besar dengan PDRB
+Pengeluaran (E), namun dalam k enyataannya tidaklah dem ikian. Selain berbeda
+dalam struktur atau komposisi, pendekatan pengukuran antar keduanya juga
+berbeda. Dalam penyajian data PDRB, perbedaan ini diletakkan pada sisi PDRB
+Pengeluaran. Unsur yang menyebabkan perbedaan tersebut antara lain adalah
+konsep dan basis pengukuran, metoda dan cakupan pengukuran, serta data
+dasar yang digunakan untuk estimasi. Melalui penjelasan ini para pengguna data
+PDRB tidak mempermasalahkan adanya perbedaan ( statistical descrepancy )
+tersebut.
+Penyusuna n data PDRBPengeluaran juga dimaksudkan untuk
+menjelaskan bagaimana “pendapatan” (Y) yang tercipta melalui proses produksihttps://depokkota.bps.go.id
+Produk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 201 4-20185menjadi sumber pendapatan masyarakat3, yang akan digunakan untuk
+memenuhi kebutuhan konsumsi akhir.
+Dari sudut pandang lain, PDRB Pengeluaran juga menjelask an
+penggunaan dari sebagian besar produk domestik bruto untuk memenuhi
+kebutuhan konsumsi akhir, atau dengan istilah yang berbeda disebut sebagai
+“output akhir ( final output )”. Mengkaitkan antara pend apatan dan
+pengeluaran untuk pembelian barang dan jasa d ari produk domestik maupun
+impor (termasuk untuk diekspor) merupakan bentuk analisis yang sederhana
+dari data PDRB. Keharusan memiliki jumlah yang sama pada kedua model
+pendekatan PDRB tersebut, secar a simultan dapat ditunjukkan melalui model
+atau persamaa nKeynesiansbb :
+Y (Income) =  PDRB Produksi
+C (Consumption ) =  Konsumsi akhir
+GFCF (Gross Fixed Capital Formation)=Pembentukan Modal Tetap Bruto
+ΔInventori =Perubahan Inventori
+X =  Ekspor
+M =  Impor
+Persamaan di atas menunjukkan pendapatan atau nilai tambah br uto
+dari hasil penghitungan PDRB Produksi akan “identik” dengan PDRB
+Pengeluaran. Jika Y adalah pendapatan, C adalah konsumsi akhir, dan
+GFCF serta Δ Inventori merupakan bentuk investasi fisik, maka selisih
+antara ekspor dengan impor menggambarkan surplus a tau defisit dari
+aktivitas perdagangan barang dan jasa antar wilayah, baik dengan wilayah
+lain ataupun dengan luar negeri.
+Melalui pendekatan ini dapat diketahui perilaku masyarakat dalam
+menggunakan pendapatan, apakah hanya untuk tujuan konsumsi (akhir)
+atau juga untuk tujuan investasi (fisik). Selain itu juga dapat diketahui
+besarnya ketergantungan ekonomi wilayah (domestik) terha dap luar negeri
+3.-Yang dimaksud adalah rumahtangga, pemerintah, lembaga non profit yang melayani rumah tangga serta
+sektor produksi (produsen) di wilayah do mestik
+-Disebut sebagai pendekatan “riil”
+-Siklus ekonomi sec ara umum yang menjelaskan tentang hubungan antara balas jasa faktor produksi
+(pendapatan) dengan pengeluaran atas penggunaan berbagai produk barang dan jasa oleh faktor produksi
+tersebutY = C + GFCF + Δ Inventori + X –Mhttps://depokkota.bps.go.id
+6Produk Domestik Regional Bru to Kota Depok Menurut Pengeluaran 201 4-2018dalam bentuk perdagangan internasional ( external transaction ). Selisih antara
+ekspor dan impor juga disebut s ebagai “ekspor neto” .
+Sebagaimana PDRB Produksi, dari PDRB Pengeluaran juga dapat
+diturunkan berbagai data agregat terntang perek onomian wilayah seperti
+nilai nominal, struktur atau distribusi pengeluaran konsumsi akhir,
+pertumbuhan “riil”,  serta indeks harga implisit. Data yang dimaksud
+tersedia baik untuk masing -masing komponen PDRB Pengeluaran maupun
+untuk total perekonomian.
+1.2PERUBAHAN TAHUN DASAR PDRB
+Mengapa Tahun Dasar PDRB Perlu Diubah?
+Selama sepuluh tahun terakhir, banyak perubahan yang terjadi pada
+kondisi perekonomian global maupun lokal, yang sangat berpengaruh terhadap
+perekonomian nasional. Krisis finansial global y ang terjadi tahun 2008,
+penerapan perdagangan bebas antara China -ASEAN (CAFTA), perubahan
+sistem pencatatan perdagangan internasional, serta semakin meluasnya jasa
+layanan pasar modal merupakan beberapa contoh perubahan yang perlu
+diantisipasi dalam mekani sme pencatatan data statistik nasional.
+Satu bentuk implementasi dari System of National Accounts (SNA) adalah
+melakukan perubahan tahun dasar PDB/PDRB. Di Indonesia kegiatan
+perubahan tahun dasar dari tahun 2000 ke 2010 dilakukan bersamaan dengan
+upaya mengimplementasi rekomendasi Perserikatan Bangsa -Bangsa (PBB) yang
+tertuang dalam buku panduan SNA 2008. Kegiatan ini diaw ali dengan
+menyusun kerangka kerja dalam bentuk Supply and Use Tables (SUT) Indonesia
+untuk tahun data 2010. Dari kerangka SUT tersebut diperoleh nilai estimasi
+PDB dan komponen -komponennya. Selanjutnya nilai PDB maupun
+komponennya ini dijadikan sebagai ac uan (benchmark) ketika BPS Provinsi
+maupun BPS Kota Depok menyusun PDRB -nya. Untuk itu, guna menjaga
+konsistensi dengan hasil penghitung an PDB, maka perubahan tahun dasar
+PDRB dilakukan secara simultan dengan perubahan tahun dasar PDB.
+Apa yang Dimaksud de ngan SNA 2008?
+SNA 2008 merupakan rekomendasi internasional tentang tata cara
+pengukuran aktivitas ekonomi, yang telah sesuai dengan pen ghitunganhttps://depokkota.bps.go.id
+Produk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 201 4-20187konvensional berdasarkan prinsip -prinsip ekonomi. Rekomendasi dinyatakan
+dalam sekumpulan konsep, definisi, ca kupan, dan klasifikasi, serta aturan neraca
+yang disepakati secara internasional dalam mengukur indikator ekonomi makro
+(account) seperti PDB/PDRB.
+SNA dirancang guna menyediakan informasi tentang aktivitas yang
+dilakukan oleh para pelaku ekonomi, utamany a aktivitas produksi, konsumsi,
+dan aktivitas akumulasi aset fisik. SNA dapat dimanfaatkan antara lain untuk
+kepentingan analisis, peren canaan dan penetapan kebijakan ekonomi. Melalui
+kerangka SNA, fenomena suatu perekonomi wilayah dapat dijelaskan dan
+dipahami dengan lebih baik.
+Apa Manfaat Perubahan Tahun Dasar?
+Manfaat perubahan tahun dasar PDRB diantaranya adalah:
+a.Menginformasikan kon disi ekonomi terkini, seperti terjadinya
+perubahan struktur dan pertumbuhan ekonomi;
+b.Meningkatkan kualitas PDRB;
+c.Menjadikan PDRB dapat diperbandingkan secara nasional.
+Apa Implikasi Perubahan Tahun Dasar?
+Perubahan tahun dasar PDRB antara lain berdampak pa da:
+a.Meningkatkan nilai PDRB, yang pada gilirannya berpengaruh pada
+perubahan kelompok pendapatan (dari wilayah berpendapatan
+rendah menjadi menengah atau tinggi), serta pergeseran struktur
+ekonomi;
+b.Perubahan besaran indikator makro seperti rasio pajak, ras io hutang,
+rasio investasi dan tabungan, neraca perdagangan, serta struktur dan
+pertumbuhan ekonomi;
+c.Perubahan input data untuk keperluan modelingdanforecasting.
+Mengapa Tahun 2010 sebagai tahun dasar?
+Terpilihnya tahun 2010 sebagai tahun dasar didasarka n atas beberapa
+alasan sbb:
+Perekonomian Indonesia pada tahun 2010 relatif stabil;
+Terjadinya perubahan struktu r ekonomi Indonesia selama 10 (sepuluh)
+tahun terakhir, terutama di bidang informasi, teknologi dan transportasi.https://depokkota.bps.go.id
+8Produk Domestik Regional Bru to Kota Depok Menurut Pengeluaran 201 4-2018Perubahan ini berpengaruh pada pola distribusi dan munculnya
+beberapa produk baru;
+Rekomendasi PBB tentang pergantian tahun dasar, yang harus
+dilakukan setiap 5 (lima) atau 10 (sepuluh) tahun4;
+Adanya pembaharuan konsep, definisi, cakupan ,klasifikasi, sumber
+data, dan metodologi penghi tungan sesuai rekomendasi SNA 2008;
+Tersedianya data dasar untuk meningkatkan kualitas PDRB seperti hasil
+Sensus Penduduk 2010 dan Indeks Harga Produsen ( Producers Price
+Index);
+Tersedianya kerangka SUT Indonesia tahun 2010, yang menunjukkan
+keseimbangan a ntara produksi, konsumsi serta pendapatan yang tercipta
+dari aktivitas tersebut.
+Implementasi SNA 2008 dalam PD RB tahun dasar 2010
+Terdapat 118 revisi di SNA 2008 dari SNA sebelumnya, dan 44
+diantaranya merupakan revisi yang utama. Beberapa revisi yang dia dopsi dalam
+penghitungan PDB/PDRB tahun dasar 2010 antara lain adalah:
+Konsep dan Cakupan
+a.Sumber daya hayati (cultivated biological resources /CBR).CBRmerupakan
+nilai aset alam hasil budidaya manusia, yang diperlakukan sebagai
+bagian dari output pertanian dan PMTB. Contoh  nilai tegakan padi,
+kelapa sawit dan karet yang belum dipanen, serta nilai sapi perah yang
+belum menghasilkan.
+b.Sistem persenjataan ( military weapon systems/MWS ).MWSmerupakan
+nilai pengeluaran pemerintah untuk pengadaan alat pertahanan dan
+keamanan, yang diperlakukan sebagai bagian dari output industri
+peralatan militer dan PMTB seperti pesawat tempur, kendaraan lapis
+baja, dan peluru kendali.
+c.Penelitian dan pengembangan ( research and development /RnD).RnD
+merupakan nilai pengeluaran unt uk aktivitas penelitian dan
+pengembangan, yang diperlakukan sebagai bagian dari output industri
+yang melakukannya dan PMTB seperti RnDtentang varietas padi,
+produk otomotif, dan riset pemasaran.
+4SNA1993, para 16.76: “constant price series should not be allowed to run for more than five, or at the most, ten
+years without rebasing”https://depokkota.bps.go.id
+Produk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 201 4-20189d.Eksplorasi dan evaluasi mineral ( mineral exploration and
+evaluation/MEE ).MEEmerupakan nilai pengeluaran untuk aktivitas
+eksplorasi dan evaluasi barang tambang dan mineral, tanpa
+memperhitungkan apakah berhasil atau tidak menemukan cadangan
+tambang atau mineral. Biaya eksplorasi dan evaluasi diperlakukan
+sebagai bagian dari output industri pertambangan dan PMTB.
+e.Bank Sentral ( Central Bank/CB ).Aktivitas Bank Indonesia yang terkait
+dengan penyediaan jasa kebijaka n moneter dan pengawasan
+dipisahkan dari jasa intermediasi keuangan. Aktivitas tersebut
+digabungkan denga n aktivitas penyediaan jasa regulasi yang dihasilkan
+pemerintahan.
+f.Komputer software ( computer software and databases /CSD).CSD
+merupakan nilai pembeli an atau biaya pembangunan databases, yang
+diperlakukan sebagai bagian dari output industri yang melakukan nya
+dan PMTB.
+g.Produk kekayaan intelektual ( entertainment, literary or artistic
+originals/ELA ).ELAmerupakan nilai pembelian atau biaya
+pembangunannya ,yang diperlakukan sebagai bagian dari output
+industri yang melakukannya dan PMTB.
+h.pengeluaran untuk akti vitas eksplorasi dan evaluasi barang tambang
+dan mineral, tanpa memperhitungkan apakah kegiatan tersebut
+berhasil ataupun tidak berhasil menemukan cada ngan tambang atau
+mineral.Biaya eksplorasi dan evaluasi diperlakukan sebagai bagian
+dari output industri pertambangan dan PMTB.
+Metodologi
+Output jasa intermediasi keuangan. Output industri ini diestimasi dengan
+metoda FISIM (F inancial intermediation ser vices indirectly measured / FISIM ).
+FISIMdihitung berdasarkan tingkat suku bunga simpanan ( deposits), bunga
+pinjaman ( loans), dan suku bunga referensi ( reference).Metoda ini
+menggantikan metoda Imputed Bank Services Charge (IBSC).
+Valuasi
+Nilai tambah b ruto lapangan usaha dinilai dengan harga dasar ( Basic Price).
+Harga dasar merupakan harga keekonomian sua tu barang atau jasa pada
+tingkat produsen, sebelum ada intervensi pemerintah dalam bentuk pajak
+dan subsidi atas produk.https://depokkota.bps.go.id
+10Produk Domestik Regional Bru to Kota Depok Menurut Pengeluaran 201 4-2018Klasifikasi
+Klasifikasi yang digunakan adalah Internasional Standard Industrial
+Classification (ISIC rev.4) dan Central Product Classi fication (CPC rev.2).
+BPS mengadopsi kedua jenis klasifikasi tersebut menjadi KBLI 2009 dan
+KBKI 2010.
+Perubahan Klasifikasi PDRB Menu rut Pengeluaran Tahun
+Dasar 2000 dan 2010
+PDRB Tahun Dasar 2000 PDRB Tahun Dasar 2010
+1.Pengeluaran Konsumsi
+Rumahtangga
+2.Pengeluaran Konsumsi
+Pemerintah
+3.Pembentukan Modal Tetap
+Bruto
+4.Perubahan Inventori
+5.Ekspor
+6.Impor1.Pengeluaran Konsumsi Rumahtangga
+2.Pengeluaran Konsumsi LNPRT
+3.Pengeluaran Konsumsi Pemerintah
+4.Pembentukan Modal Tetap Bruto
+5.Perubahan Inventori
+6.Ekspor
+7.Imporhttps://depokkota.bps.go.id
+Produk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 201 4-201811BAB II
+METODE ESTIMASI
+DAN SUMBER DATAhttps://depokkota.bps.go.id
+12Produk Domestik Regional Bru to Kota Depok Menurut Pengeluaran 201 4-2018https://depokkota.bps.go.id
+Produk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 201 4-2018132.1.PENGELUARAN KONSUMSI AKHIRRUMAHTANGGA
+(PK-RT)
+i.Pendahuluan
+Sektor rumahtangga mempunyai peran yang cukup besar dalam
+perekonomian. Hal ini tercermin dari besarnya sumbangan komponen
+konsumsi rumahtangga dalam pembentukan PDRB pengeluaran5.  Di samping
+berperan sebagai konsumen akhir barang dan jasa, ru mahtangga juga berperan
+sebagai produsen serta penyedia faktor produksi untuk aktivitas produksi yang
+dilakukan oleh sektor institusi lainnya.
+ii.Konsep dan D efinisi
+Pengeluaran konsumsi akhir rumahtangga (PK -RT) merupakan
+pengeluaran atas barang dan jasaoleh rumahtangga untuk tujuan konsumsi.
+Rumahtangga didefinisikan sebagai individu atau kelompok individu yang
+tinggal bersama dalam suatu bangunan tempat tin ggal. Mereka mengumpulkan
+pendapatan, memiliki harta dan kewajiban, serta mengkonsumsi barang dan jas a
+secara bersama -sama utamanya kelompok makanan dan perumahan .
+iii.Cakupan
+PK-RT mencakup pengeluaran atas barang dan jasa oleh rumahtangga
+residen, baik yang dilakukan di dalam maupun di luar wilayah domestik suatu
+region. Jenis barang dan jasa tersebut dikla sifikasikan menurut Classifications of
+Individual Consumption by Purpose (COICOP) , sbb:
+1.Makanan dan minuman tidak beralkohol
+2.Minuman beralkohol, tembakau d an narkotik
+3.Pakaian dan alat kaki
+4.Perumahan, air, listrik, gas dan bahan bakar lainnya
+5.Furniture, perlengkapan rumahtangga dan pemeliharaan rutin
+6.Kesehatan
+7.Angkutan
+8.Komunikasi
+9.Rekreasi/hiburan dan kebudayaan
+10.Pendidikan
+5Untuk Kabupaten/ Kota yang mempunyai hasil tambang/industri/perkebunan dan  nilai ekspornya sangat tinggi,
+umumnyanilaikonsumsi rumahtangganya relatif lebih rendahhttps://depokkota.bps.go.id
+14Produk Domestik Regional Bru to Kota Depok Menurut Pengeluaran 201 4-201811.Penyediaan makan minum dan penginapan /hotel
+12.Barang dan jasa lainnya
+Namun dalam publikasi ini, PK -RT hanya diklasifikasi ke dalam7
+COICOP, yaitu:
+1.Makanan, Minuman, dan Rokok
+2.Pakaian dan Alas Kaki
+3.Perumahan, Perkakas, Perelngkapan dan Penyelenggaraan Rumah
+Tangga
+4.Kesehatan dan Pendidikan
+5.Transportasi, Komunikasi, Rekreasi, dan Budaya
+6.Hotel dan Restoran
+7.Lainnya
+iv.Sumber Data
+Data dasar yang digunakan untuk mengestimasi komponen PK -RT
+bersumber dari :
+Survei Sosial Ekonomi Nasional/Daerah (Susenas/Suseda), BPS
+Survei Khusus Konsumsi Rumahtangga Tr iwulanan (SKKRT), BPS
+Sensus Penduduk 2010, BPS
+Data Sekunder (dari dalam maupun luar BPS)
+Indeks Harga Konsumen (IHK), BPS
+v.Metoda Estimasi
+Komponen PK -RT Tahunan diestimasi dengan metoda sbb:
+1.Nilai pengeluaran konsumsi perkapita Susenas/Suseda (untuk PK -RT
+Tahunan)
+2.Data poin 1 dikalikan dengan penduduk pertengahan tahun, dikalikan
+12(PKRT Tahunan)
+3.Data poin 2 dikelompokan menjadi 12 kelompok COICOP, dengan
+beberapa komoditas dikontrol secara tersendiri;
+4.Terhadap data poin 3, dilakukan kontrol/koreksi d engan menggunakan
+data sekunder atau data/indikator suplai;
+5.Diperoleh nilai PK -RTTahunan atas dasar harga berlaku (atas dasar
+harga Berlaku) ;
+6.Susun Indeks implisit PK -RT berdasarkan IHK Kota (provinsi/kota
+terdekat);https://depokkota.bps.go.id
+Produk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 201 4-2018157.Nilai PK-RT atas dasar harga Konstan diperoleh dengan cara membagi
+hasil poin 5 dengan poin 6.
+Catatan:
+Komponen PK -RTTriwulanan diestimasi dengan menggunakan indeks
+perkembangan konsumsi rumahtangga triwulanan yang diperoleh dari
+hasil kegiatan SKKRT.
+2.2.PENGELUARAN KONSUMSI AKHIRLEMBAGA NON
+PROFIT YANG MELAYANI RUMA HTANGGA (PK -LNPRT)
+iPendahuluan
+Sektor Lembaga Non-Profit yang Melayani Rumahtangga (LNPRT)
+muncul sebagai sektor tersendiri di dalam perekonomian suatu wilayah. Sektor
+ini berperan dalam menyediakan barang dan jasa bagi anggota m aupun bagi
+kelompok rumahtangga tertentu secara gratis atau pada tingkat harga yang tidak
+berarti secara ekonomi. Harga yang tak berarti secara ekonomi artinya harga
+yang ditawarkan  di bawah tingkat harga pasar (tidak mengikuti harga pasar yang
+berlaku).
+iiKonsep dan definisi
+LNPRT merupakan bagian dari lembaga non profit (LNP). Untuk
+diketahui, sesuai dengan fungsinya LNP dapat dibedakan atas LNP yang
+melayani rumahtangga (LNPRT) dan LNP yang melayani bukan rumahtangga.
+LNPRT merupakan lembaga yang melayani anggota atau rumahtangga,
+serta tidak dikontrol oleh pemerintah. Anggota yang dimaksud bukan
+berbentuk badan usaha. LNPRT dibedakan atas 7 jenis lembaga, yaitu:
+Organisasi kemasyarakatan, Organisasi sosial, Organisasi profesi, Perkumpulan
+sosial/ kebudaya an/olahraga/hobi, Lembaga swadaya masyarakat, Lembaga
+keagamaan, dan Orga nisasi bantuan kemanusiaan/beasiswa.
+iii.Cakupan
+Nilai PK-LNPRT merupakan nilai output non -pasar yang dihasilkan oleh
+LNPRT. Nilai output non -pasar diestimasi berdasarkan nilai pengeluara nhttps://depokkota.bps.go.id
+16Produk Domestik Regional Bru to Kota Depok Menurut Pengeluaran 201 4-2018LNPRT dalam rangka melakukan kegiatan operasional. Pengeluaran yang
+dimaksud terdiri dari :
+a.Konsumsi antara, contoh : pembelian alat tulis dan barang cetakan;
+pembayaran rekening listrik, air, telepon, teleks, faksimili; biaya rapat,
+seminar, perjamuan; biaya transportasi, bahan bakar, perjalanan dinas;
+belanja barang dan jasa lainnya; sewa gedung, sewa perlengkapan kan tor
+dll.
+b.Kompensasi tenaga kerja, contoh : upah, gaji, lembur, honor, bonus dan
+tunjangan lain
+c.Penyusutan
+d.Pajak lainnya atas produksi (dik urangi subsidi), contoh: PBB, STNK,
+BBN dll.
+iv.Sumber Data
+a.Survei Khusus Lembaga Nonprofit yangmelayani Rumahtangga (SK -
+LNP),BPS
+b.SK-LNP Triwulanan (SK -LNPT), BPS
+c.Hasilup-datingdirektori LNPRT, BPS
+d.Indeks Harga Konsumen , BPS
+v.Metoda Estimasi
+Komponen P K-LNPRT Tahunan diestimasi dengan metoda sbb:
+1.Nilaipengeluaran konsumsi per jenis lembaga dari hasil SK -LNP;
+2.Hasil dari poin 1 dikalikan dengan banyaknya lembaga pada
+pertengahan tahun dari Direktori LNPRT;
+3.Terhadap hasil poin 2 dilakukan kontrol/koreksi denganmenggunakan
+indikator kegiatan hasil SK-LNP sepertijumlah tenaga kerja, penerima
+layanan,berbagai even seperti munas, rakerda, dan penanganan
+bencana;
+4.Diperoleh nilai PK -LNPRT tahunan atas dasar harga berlaku (atas dasar
+harga Berlaku);
+5.Susun Inde ks implisit PK -LNPRT berdasarkan IHK Kota
+(Provinsi/ Kota terdekat);
+6.Nilai PK-LNPRT atas dasar harga Konstan (ADHK) diperoleh dengan
+membagi hasil poin 4 dengan poin 5.https://depokkota.bps.go.id
+Produk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 201 4-201817Catatan :
+Komponen PK -LNPRT Triwulanan diestimasi dengan menggunakan
+indeks perkembangan pengeluaran konsumsi LNPRT triwulanan yang
+diperoleh dari hasil kegiatan SK -LNPT.
+2.3.PENGELUARAN KONSUMSI AKHIRPEMERINTAH (PK-P)
+i.Pendahuluan
+Unit pemerintah merupakan unit institusi yang terbentuk melalui proses
+politik, serta mempunyai kekuasaan di bidang legislatif, yudikatif, dan eksekutif
+atas unit institusi lain yang berada di dalam batas -batas teritori suatu wilayah
+atau negara.  Pemerintah juga berperan sebagai penyedia barang dan jasa bagi
+individu atau kelompok rumahtangga tertentu, pemungut dan p engelola pajak
+atau pendapatan lainnya, serta be rfungsi untuk mendistribusikan pendapatan
+melalui aktivitas transfer. Dari sudut pandang lain, unit pemerintah terlibat
+dalam produksi non -pasar.
+Dalam suatu perekonomian, unit pemerintah berperan sebagai kon sumen
+maupun produsen barang dan jasa, serta seb agai regulator yang menetapkan
+kebijakan di bidang fiskal maupun moneter. Sebagai konsumen, pemerintah
+akan melakukan aktivitas konsumsi. Sedangkan sebagai produsen, pemerintah
+melakukan aktivitas produksi da n investasi.
+ii.Konsep dan Definisi
+Nilai PK-P merupakan besarnya nilai barang dan jasa yang dihasilkan oleh
+pemerintah untuk dikonsumsi oleh pemerintah itu sendiri. Nilai tersebut
+diestimasi dengan pendekatan pengeluaran, yakni sebesar nilai pembelian
+barangdan jasa yang bersifat rutin, pembayaran kompen sasi pegawai, transfer
+sosial dalam bentuk barang, perkiraan penyusutan barang modal, serta nilai
+output dari unit Bank Indonesia. Nilai ini masih harus dikurangi nilai penjualan
+barang dan jasa yang dihasilk an melalui unit produksi yang tak terpisahkan da ri
+aktivitas pemerintahan secara keseluruhan. Aktivitas yang dimaksud mencakup
+aktivitas:
+1.Memproduksi barang yang sejenis dengan barang yang diproduksi unit
+perusahaan seperti publikasi, kartu pos, reproduksi karya seni, dan
+pembibitan tanaman di kebun per cobaan. Aktivitas menghasilkanhttps://depokkota.bps.go.id
+18Produk Domestik Regional Bru to Kota Depok Menurut Pengeluaran 201 4-2018barang-barang semacam itu bersifat insidentil dan di luar fungsi utama
+dari unit pemerintah.
+2.Memproduksi jasa, seperti penyelenggaraan rumah sakit, sekolah,
+perguruan tinggi, mu seum, perpustakaan, tempat rekreasi dan
+penyimpa nan hasil karya seni yang dibiayai oleh pemerintah. Dalam
+parktek, pemerintah akan memungut biaya, namun umumnya biaya
+yang dikenakan tidak akan melebihi seluruh biaya yang dikeluarkan
+pemerintah. Pendapatan yang diperoleh dari aktivitas semacam ini
+disebut sebagai penerimaan non -komoditi atau pendapatan jasa.
+iii.Cakupan
+Sektor pemerintah  terdiri dari pemerintah pusat dan pemerintah daerah.
+Dalam melakukan aktivitasnya, pemerintah Kota Depok mengacu pada
+Anggaran Pendapatan dan Belanja Daerah (APBD) masing -masing.
+PK-PKota Depok mencakup:
+a.PK-Pdesa/kelurahan/nagari yang ada di wilayah Kota Depok ;
+b.PK-PKota Depok yang bersangkutan;
+c.PK-P pusat yang merupakan bagian dari PK -PKota Depok .
+iv.Sumber Data
+Data dasar yang digunakan untuk mengestimasi PK -PKota Depok
+tahunan adalah:
+a.Data realisasi APBD Tahunan, Kementrian Keuangan dan Bappeda
+b.Statistik Keuangan Daerah ,BPS
+c.Output Bank Indonesia ,BankIndonesia
+d.GajiPegawai Negeri Sipil, Kementrian Keuangan dan Bapped a
+e.Indeks Harga dan Indeks Upah, BPS
+f.Indeks perkembangan pengeluaran pemerintah daerah triwulanan, BPS
+v.Metoda Estimasi
+Komponen PK -PKota Depok Tahunan diestimasi dengan menggunakan
+metoda:https://depokkota.bps.go.id
+Produk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 201 4-201819PK-P atas dasar harga Berlaku  =
+Output –Penjualan baran g dan jasa  + Social transfer in kind
+purchased market production +Output Bank Indonesia
+Output non pasar dihitung melalui pendekatan biaya operasional,
+seperti belanja pegawai, belanja barang, belanja bantuan sosial dan belanja
+lain-lain.
+Catatan :
+1.Komponen PK -P Triwulanan diestimasi dengan menggunakan
+indeks perkembangan pengeluaran konsumsi pemerintah daerah
+triwulanan
+PK-P atas dasar harga Konstan diestimasi dengan men -deflatePK-P atas
+dasar harga Berlaku dengan menggunakaan deflator berikut:
+Jenis Belanja Deflator Keterangan
+Belanja Pegawai Indeks Upah Sama dengan Nasional
+Belanja Barang IHPB umum tanpa
+eksporSama dengan Nasional
+Penyusutan Indeks Implisit
+PMTB
+Belanja Bansos IHPB umum tanpa
+eksporSama dengan Nasional
+Penerimaan barang
+danjasaIHK umum Prov atau Kab/Kota
+terdekat
+Social Transfer in kind IHK umum Prov atau Kab/Kota
+terdekat
+Output BI Neraca Jasa
+2.4.PEMBENTUKAN MODAL TETAP BRUTO (PMTB)
+iPendahuluan
+Aktivitas investasi merupakan salah satu faktor penentu di dalam
+perkembanga n atau pertumbuhan ekonomi suatu wilayah. Dalam konteks
+PDRB, aktivitas investas yang dimaksud adalah investasi dalam bentuk fisik.
+Aktivitas investasi akan tercermin melalui komponen Pemben tukan Modalhttps://depokkota.bps.go.id
+20Produk Domestik Regional Bru to Kota Depok Menurut Pengeluaran 201 4-2018Tetap Bruto (PMTB) dan Perubahan Inventori (PI). Kompo nen PMTB terkait
+dengan keberadaan aset tetap ( fixed asset) yang terlibat dalam proses produksi.
+Aset tetap dapat diklasifikasi menurut jenis barang modal, yakni  dalam bentuk
+bangunan dan k onstruksi lainnya; mesin dan perlengkapan; kendaraan;
+tumbuhan dan ternak; serta barang modal lainnya.
+iiKonsep dan definisi
+PMTB didefinisikan sebagai penambahan dan pengurangan barang modal
+yang ada pada unit produksi dalam kurun waktu tertentu. Penambahan barang
+modal mencakup pengadaan, pembuatan, pembelian,  sewa beli (financial leasing )
+barang modal baru dari dalam negeri, serta barang modal baru maupun barang
+modal bekas dari luar negeri (termasuk perbaikan besar, transfer dan barter),
+serta pertumbuha n aset sumberdaya hayati yang dibudidaya ( Cultivated Biological
+Resources/CBR). Sedangkan pengurangan barang modal mencakup penjualan,
+transfer atau barter, serta sewa beli ( financial leasing ) barang modal bekas pada
+pihak lain. Dalam hal pengurangan baran g modal yang disebabkan oleh bencana
+alam tidak dicatat sebagai pe ngurangan.
+Barang modal mempunyai usia pakai lebih dari satu tahun, serta
+mengalami penyusutan sepanjang usia pakai -nya. Istilah ”bruto”
+mengindikasikan bahwa di dalamnya mengandung unsur pe nyusutan.
+Penyusutan atau konsumsi barang modal ( Consumption of Fi xed Capital )
+menggambarkan penurunan nilai barang modal karena digunakan dalam proses
+produksi secara normal selama periode tertentu.
+iiiCakupan
+PMTB mencakup :
+1.Penambahan dikurangi pengurangan barang modal baik baru maupun
+bekas, seperti bangunan tempat ting gal, bangunan bukan tempat tinggal,
+bangunan dan konstruksi lainnya, mesin & perlengkapan, alat
+transportasi, tumbuhan dan hewan yang dibudidaya ( cultivated asset ),
+produk kekayaa n intelektual ( intellectual property products );
+2.Biaya alih kepemilikan atas a set non-finansial yang tidak diproduksi
+seperti lahan dan aset yang dipatenkan;
+3.Perbaikan besar barang modal, yang bertujuan untuk meningkatkan
+kapasitas produksi dan usia pakai -nya seperti overhaulmesin produksi,
+reklamasi pantai, pembukaan, pengeringan dan pengairan hutan, sertahttps://depokkota.bps.go.id
+Produk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 201 4-201821pencegahan banjir dan erosi.
+ivSumber Data
+a.Output industri konstruksi, BPS
+b.Nilai impor 2 digit HS, BPS
+c.Indeks Produksi Industri Besar Sedang, BPS
+d.LaporanKeuanganPerusahaan, Data Sekunder dari luar BPS
+e.Publikasi Statistik  Indust ri Besar dan Sedang, BPS
+f.Indeks Harga Perdagangan Besar (IHPB), BPS
+g.Publikasi Statistik Pertambangan dan Penggalian (migas dan non -migas),
+BPS
+h.Publikasi Statistik Listrik, Gas & Air Minum, BPS
+i.Publikasi  Statistik Konstruksi, BPS
+j.Data Eksplorasi Mineral , Kementrian Energi dan Sumber Daya Mineral
+k.Statistik Peternakan, Ditjen Peternakan Kementerian Pertanian .
+vMetoda estimasi
+Komponen PMTB diestimasi dengan menggunakan metoda langsung
+ataupun metoda tidak langsung tergantung ketersediaan data di masing -masing
+daerah.
+Metoda Langsung:
+PMTB atas dasar harga Berlaku (Domestik) = Barang Modal Domestik
++ TTM + Pajak atas Produk (PP N) + Biaya Instalasi
+PMTB atas dasar harga Berlaku (Impor)  = Barang Modal Impor +
+TTM +Bea Impor + Biaya Instalasi
+PMTB atas das ar harga Konstan diperoleh dengan cara men -deflate
+PMTB atas dasar harga Berlaku dengan IHPB sbb:
+IHPB yang digunakan adalah IHPB Nasional (2010=100) sesuai jenis barang
+modal.
+Metoda Tidak Langsung:
+Pendekatan Supply : PMTB atas dasar harga Berlaku = To tal Supply
+Barang  x Rasio PMTBhttps://depokkota.bps.go.id
+22Produk Domestik Regional Bru to Kota Depok Menurut Pengeluaran 201 4-2018Pendekatan Ekstrapolasi  : PMTB atas dasar harga Konstan  (t) =
+PMTB atas dasar hargak (t-1) x Indeks Produksi (t)
+2.5.PERUBAHAN INVENTORI (PI)
+iPendahuluan
+Dalam suatu perekonomian, inventori atau persediaan merupakan salah
+satu komponen penting yang dibutuhkan untuk kelangsungan suatu proses
+produksi,di samping tenaga kerja dan barang modal. Komponen tersebut
+menjadi bagian dari pembentukan modal bruto atau investasi fisik, yang terjadi
+di suatu wilayah pada kurun waktu terten tu. Komponen inventori
+menggambarkan bagian dari investasi yang direalisasik an dalam bentuk barang
+jadi, barang setengah jadi, serta bahan baku dan bahan penolong. Ketersediaan
+data tentang perubahan inventori pada suatu periode akuntansi menjadi penting
+guna memenuhi kebutuhan analisis tentang aktivitas investasi.
+iiKonsep dan def inisi
+Pengertian sederhana dari inventori adalah barang yang dikuasai oleh
+produsen untuk tujuan diolah lebih lanjut ( intermediate consumption ) menjadi
+barang lainnya, yang mempuny ai nilai ekonomi atau manfaat yang lebih tinggi.
+Termasuk dalam pengertian t ersebut adalah barang yang masih dalam proses
+pengerjaan ( work in progress) , serta barang jadi yang belum dipasarkan dan masih
+dikuasai oleh produsen.
+Nilai perubahan inventori merupakan selisih antara nilai inventori di akhir
+periode dengan n ilai inventori pada awal periode (akuntansi). Perubahan
+inventori menjelaskan perubahan posisi barang inventori, yang dapat bermakna
+penambahan (bertanda positif) ataupun pengurang an (bertanda negatif).
+Bagi produsen, keberadaan inventori diperlukan untuk menjaga
+kelangsungan dari proses produksi sehingga perlu dicadangkan, baik dalam
+bentuk bahan baku ataupun bahan penolong. Faktor ketidakpastian yang
+disebabkan oleh pengaruh dari faktor eksternal juga menjadi pertimbangan bagi
+pengusaha untuk melakukan p encadangan (khususnya bahan baku). Bagi
+pedagang, pengadaan inventori lebih disebabkan oleh unsur spekulasi, dengan
+harapan agar mendapatkan keuntungan yang lebih besar.https://depokkota.bps.go.id
+Produk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 201 4-201823Sedangkan bagi pemerintah, pencadangan komoditas yang strategis
+dimaksudkan untuk menj aga stabilitas ekonomi, sosial dan politik. Karena
+menyangkut kepentingan masyarakat luas, maka beberapa komoditas bahan
+pokok seperti beras, tepung terigu, minyak goreng dan gula pasir perlu
+dicadangkan oleh pemerintah. Namun bagi rumahtangga, pengadaan i nventori
+barang lebih ditujukan untuk kemudahan dalam mengatur perilaku konsumsi.
+iiiCakupan
+Inventori dapat diklasifikasikan menurut jenis barang sbb :
+a.Inventori menurut industri, se perti produk atau hasil perkebunan,
+kehutanan, perikanan, pertambangan, industri pengolahan, gas kota, air
+bersih, serta konstruksi;
+b.Inventori menurut jenis bahan baku & penolong ( material & supplies ),
+mencakup semua bahan, komponen atau persediaan untuk d iproses
+lebih lanjut menjadi barang jadi;
+c.Barang jadi, men cakup barang yang telah diproses tetapi belum terjual
+atau belum digunakan termasuk barang yang dijual dalam bentuk yang
+sama seperti pada waktu dibeli;
+d.Barang setengah jadi, yang mencakup barang ya ng sebagian telah diolah
+atau belum selesai (tidak termasu k konstruksi yang belum selesai);
+e.Barang dagangan yang masih dikuasai oleh pedagang untuk tujuan
+dijual;
+f.Ternak untuk tujuan dipotong;
+g.Pengadaan barang oleh pedagang untuk tujuan dijual atau diguna kan
+sebagai bahan bakar atau persediaan; serta
+h.Persediaan pemerintah, yang mencakup barang strategis seperti beras,
+kedelai, gula pasir, dan gandum.
+ivSumber Data
+Sumber data yang digunakan untuk mengestimasi komponen perubahan
+inventori adalah :
+1.Laporan keu angan perusahaan hasil kegiatan survei atau websiteBursa
+Efek Indonesia ( www.idx.co.id );
+2.Laporan Keuangan Perusahaan BUMN/BUMD, Data Sekunder dari
+luar BPS
+3.Data komoditas pertambangan, Statistik Pertambangan dan Pengga lianhttps://depokkota.bps.go.id
+24Produk Domestik Regional Bru to Kota Depok Menurut Pengeluaran 201 4-2018BPS;
+4.Data Inventori Publikasi Tahunan Industri Besar Sedang, BPS;
+5.Data komoditas perkebunan;
+6.Indeks harga implisit PDRB industri terpilih;
+7.Indeks harga perdagangan besar (IHPB) terpilih;
+8.Data persediaan beras, Bulog; data semen, Asosiasi Semen Indones ia;
+data gula, Dewan Gula Indonesia; dan data ternak, Ditjennak
+Kementan.
+v       Metoda Estimasi
+Komponen Perubahan Inventori (PI) diestimasi dengan menggunakan
+metoda revaluasi atau metoda deflasi, tergantung jenis komoditasnya.
+a.Metoda Revaluasi
+Metoda ini digunakan untuk komoditas pertanian, perkebunan,
+peternakan, kehutanan dan pertambangan.
+PI atas dasar harga Berlaku   = Volumenventori (t) –Volumeinventori
+(t-1))x  Harga per unit
+PI atas dasar harga Konstan =   PI atas dasar harga Berlaku / IHPB
+b.Metoda Deflasi
+Metoda ini digunakan untuk komoditas industri pengolahan dan
+komoditas lainnya.
+PI atas dasar harga Konstan =   Inventori (t) atas dasar harga
+Berlaku/IHPB (t )-Inventori(t-1)atas
+dasar harga Berlaku/IHPB(t-1)
+PI atas das ar hargaBerlaku   =  PI atas dasar harga Konstan  x  IHPB
+rata-rata (t)
+2.6.EKSPOR -IMPOR
+iPendahuluan
+Aktivitas ekspor-impor dari dan ke suatu wilayah diyakini telah terjadi
+sejak lama, bahkan sebelum wilayah itu ditetapkan sebagai wilayah
+pemerintahan. Ra gam barang dan jasa yang diproduksi maupun disparitas
+harganya menjadi faktor utama munculnya aktivitas tersebu t. Wilayah yang tidak
+dapat memenuhi kebutuhan -nya sendiri berusaha untuk mendatangkan dari luarhttps://depokkota.bps.go.id
+Produk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 201 4-201825wilayah atau bahkan dari luar negeri. Di sisi la in, wilayah yang memproduksi
+barang dan jasa melebihi kebutuhan domestik -nya, terdorong untuk
+memperluas pasar ke luar wilayah atau bahkan ke luar negeri.
+Seiring perkembangan zaman, aktivitas produksi dan permintaan
+masyarakat atas berbagai barang dan ja sa semakin meningkat. Kemajuan di
+bidang transportasi dan komunikasi juga turut memperlancar arus dan distribusi
+barang dan jasa. Kondisi ini semakin mendor ong aktivitas ekspor -impor dari
+dan ke suatu wilayah.
+iiKonsep dan definisi
+Ekspor-impordidefiniskan sebagai alih kepemilikan ekonomi (melalui
+aktivitas penjualan / pembelian , barter, pemberian atau hibah) barang dan jasa
+antarresidenwilayah tersebut deng annon-residen(yang berada di luar wilayah
+atau luar negeri) .
+iiiCakupan
+Ekspor-Impor ke dan dari sua tu wilayah Kota Depok terdiri dari:
+a.Ekspor ke luar provinsi/Kota Depok
+b.Impor dari luar provinsi/Kota Depok .
+Selisih antara ekspor dan impor didefinisikan sebagai Net Ekspor.
+ivSumber Data
+Nilai ekspor -imporwilayahKota Depok didasarkan pada penghitungan
+NetEkspor.Namun sering kali untuk mengestimasinya tidakadadata yang
+sesuai dengan konsep dan definisi yang ditentukan. Kondisi ini lah yang
+menyebabkan NetEksporKota Depok diperlakukan sebagai item penyeimbang
+(residual), yakni perbedaan antara PD RB menurut peng eluarandengan PD RB
+menurut lapangan usaha. Selanjutnya dilakukan p emisahan NetEkspor menjadi
+ekspordanimpordenganmengunakan metodatidak langsung.https://depokkota.bps.go.id
+26Produk Domestik Regional Bru to Kota Depok Menurut Pengeluaran 201 4-2018https://depokkota.bps.go.id
+Produk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 201 4-201827BAB III
+TINJAUAN
+PEREKONOMIAN
+KOTA DEPOK
+MENURUT PDRB PENGELUARAN
+TAHUN 201 4-2018https://depokkota.bps.go.id
+28Produk Domestik Regional Bru to Kota Depok Menurut Pengeluaran 201 4-2018https://depokkota.bps.go.id
+Produk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 201 4-2018293.1.PERKEMBANGAN PDRB PENGELUARAN
+Sebagaimana diketahui bahwa sejak tahun 2015, PDRB diestimasi dengan
+menggunakan tahun dasar yang baru, tahun 2 010 (2010=100) menggantikan
+tahun dasar lama, tahun 2000 (2000=100). Penyusunan PDRB dengan tahun
+dasar baru juga disertai dengan upaya untuk mengimplementasikan System of
+National Accounts (SNA) yang baru, SNA 2008. Ke dua hal tersebut tentu
+berdampak pada besaran maupun struktur PDRB serta indikator ekonomi yang
+diturunkan dari data PDB/PDRB tersebut.
+Secara total, PDRB Pengeluaran Kota Depok atas dasar harga (atas dasar
+harga) Berlaku di tahun 201 8meningkat sebesar 10,19%, yakni dari 58.334,50
+miliar Ru piah menjadi 64.292,10 milliar Rupiah . Jika dinilai atas dasar harga
+Konstan 2010, maka peningkat annya lebih rii l karena tidak terpengaruh faktor
+inflasi, yakni dari 49.939,37miliar Rupiah (2010=100) menjadi 45.870,50miliar
+Rupiah (2010=100), atau mening kat sebesar 6, 83%.
+Di tengah kondisi pertumbuhan ekonomi Indonesia yang cenderung
+melemah,kondisi ini menjadi berbeda dengan kondisi pertumbuhan ekonomi
+Kota Depok yang fluktuatif dengan kecenderungan mengalami pertumbuhan
+positif, perekonomian Kota Depo kperiode 2010 -2018dapat tetap tumbuh di
+atas6%, yakni sebesar 6,36%;6,81%;8,06%; 6,85 %; 7,28 %;6,64%;7,28 %
+6,65%, serta 6,83 % . Peningkatan volume ekonomi tersebut tercermin baik dari
+sisi produksi ( supply side) maupun sisi permintaan akhir ( demand side ). Dari sisi
+produksi, pertumbuhan ekonomi tertinggi pada tahun 2018 terjadi pada
+kategori Konstruksiyang tumbuh 10,11%. Dari sisi permintaan akhir,
+pertumbuhan ekonomi Kota Depok didominasi pertumbuhan komponen
+Pengeluaran K onsumsi Rumahtangga (PK -RT), yang menyumbang lebih dari
+126,41% total PDRB.
+Pada periode tahun 2010-2018PDRBKota Depok atas dasar harga
+Berlaku meningkat cukup signifikan, yakni sebesar 26.601miliar Rupiah (2010);
+29.594miliar Rupiah (2011); 33.283miliar Rupiah (2012); 38.627miliar Rupiah
+(2013);43.806miliar Rupiah (2014); 48.532miliar Rupiah (2015); 53.331miliar
+Rupiah (2016); 58.344miliar Rupiah (201 7);dan64.292miliar Rupiah pada
+tahun 201 8. Peningkatan ini dipengaruhi baik oleh perubahan harga maupun
+perubahan volume. Peningkatan PDRB sisi produksi diikuti oleh peningkatan
+PDRB dari sisi permintaan akhir atau P DRB pengeluaran. Peningkatan PDRB
+menurut komponen pengeluaran Kota Depok pada periode2014-2018dapat
+dilihatdari Tabel 1 dan Grafik 1 berikut ini:https://depokkota.bps.go.id
+30Produk Domestik Regional Bru to Kota Depok Menurut Pengeluaran 201 4-2018Tabel 1. P DRBatasDasar Harga Berlaku Menurut Peng eluaran,
+Kota Depok Tahun2014-2018
+(MilyarRp)
+Komponen Pengeluaran/
+Expenditure item2014 2015 2016 2017*2018**
+(1) (2) (3) (4) (5) (6)
+1  Konsumsi Rumah Tangga
+/Household Consumption57867,61 62810,93 67440,12 74835,89 81584,15
+2  Konsumsi LNPRT /
+NPISH Consumption616,79 659,22 636,54 670,52 728,74
+3  Konsumsi Pemerintah /
+Government Consumption1887,10 2126,78 2533,80 2487,92 2620,09
+4  Pembentukan Modal Tetap
+Bruto /Gross Fixed Capital
+Formation21706,98 23936,48 26630,42 29779,05 34382,90
+5  Perubahan Inventori
+/Changes o f Inventory1453,41 1524,21 1717,35 1818,54 1893,08
+6  Ekspor / Export 33217,4731 292,7833713,0538 414,4241956,02
+7  Impor / Import 72 943,3173 817,7679 340,2289661,8498872,89
+PDRB / GRDP 43806,04 48532,64 53331,05 58344,50 64292,10
+Grafik 1 PDRB atas Dasar Harga Berlaku Menurut Pengeluaran,
+Kota Depok ,2014–2018
+-80.000,00-60.000,00-40.000,00-20.000,000,0020.000,0040.000,0060.000,0080.000,00100.000,00
+2014 2015 2016 2017 2018
+Konsumsi Rumah Tangga Konsumsi LNPRT Konsumsi Pemerintah
+PMTB Inventori Net Eksporhttps://depokkota.bps.go.id
+Produk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 201 4-201831Selain dinilai atas dasar harga yang berlaku, PDRB pengeluaran juga dapat
+dinilai atas dasar harga Konstan 2010 atau atas dasar harga dari berbagai jenis
+produk yang divaluasidengan harga  tahun 2010 .Melalui pendekatan ini, nilai
+PDRB pada masing -masing tahun memberikan gambaran tentang perubahan
+PDRB secara volume atau kuantitas (tanpa dipengaruhi oleh perubahan harga) .
+PDRB pengeluaran atas dasar harga Konstan 2010 menggamb arkan terjadinya
+perubahan atau pertumbuhan ekonomi secara riil, utamanya terkait dengan
+peningkatan volume permintaan atau konsumsi akhir .Peningkatan nilai PDB
+atas dasar harga Konstan 2010 Kota Depok pada periode 201 3-2018dapat
+dilihat dar iTabel 2 dan Grafik 2 berikut ini :
+Tabel 2 PDRBatas dasar harga Konstan 20 10 Menurut Peng eluaran,
+Kota Depok Tahun2014-2018
+(MilyarRp)
+Komponen Pengeluaran
+/Expenditure item2014 2015 2016 2017*2018**
+(1) (2) (3) (4) (5) (6)
+1  Konsumsi Rumah T angga /
+Household Consumption47816,43 49757,92 51808,60 55033,94 57983,05
+2  Konsumsi LNPRT /
+NPISH Consumption486,50 501,44 470,66 483,82 508,71
+3  Konsumsi Pemerintah /
+Government Consumption1387,81 1454,28 1668,93 1594,77 1651,32
+4  Pembentukan Modal Tetap
+Bruto /Gross Fixed Capital
+Formation17524,00 18253,30 19861,64 21514,29 23552,48
+5  Perubahan Inventori
+/Changes of Inventory1161,74 1101,43 1137,48 1138,39 1122,08
+6  Ekspor / Export 25294,4228431,9929566,5535187,2637189,70
+7  Impor / Import58478,1461970,8964250,6272013,1076136,83
+PDRB / GRDP 35192,76 37529,47 40263,24 42939,37 45870,50
+DariTabel 2, terlihat bahwa nilai PDRB atas dasar harga Konstan di
+Kota Depok meningkat, yakni sebesar 26601miliar Rupiah (2010); 28412
+miliar Rupiah (2011); 30703miliar Rupiah (2012); 32805miliar Rupiah
+(2013);35192miliar Rupiah (2014); 37529miliar Rupiah (2015); 40263
+miliar Rupiah (2016); 42 939 miliar Rupiah (201 7);dan45870miliarhttps://depokkota.bps.go.id
+32Produk Domestik Regional Bru to Kota Depok Menurut Pengeluaran 201 4-2018Rupiah (2018).Sedangkan dari Grafik 2, terlihat bahwa pertumbuhan
+ekonomi diKota Depok cenderung mengalami pertumbuhan dengan nilai
+positif / meningkat, yakni dari 6 ,36 persen pada tahun 2010 menjadi 6, 83
+persen pada tahun 201 8.
+Grafik 2 PDRB atas Dasar Ha rgaKonstan 2010 Menurut Pengeluaran,
+Kota Depok ,2014-2018
+DariGrafik 3,dapat dilihat bahwa nilai PDRB atas dasar harga Berlaku
+selalu lebih tinggi dari PDRB atas dasar harga Konstan .Perbedaan tersebut
+sangat dipengaruhi oleh perubahan harga yang c enderung meningkat .
+Sedangkan pada PD RB atas dasar harga Konstan, peng aruh dari harga tersebut
+telah ditiadakan .Sama halnya PDRB atas dasar harga Berlaku, sebagian besar
+pengeluaran akhir PDRB atas dasar harga Konstan juga menunjukkan
+peningkatan .-60.000,00-40.000,00-20.000,000,0020.000,0040.000,0060.000,0080.000,00
+2014 2015 2016 2017 2018
+Konsumsi Rumah Tangga Konsumsi LNPRT Konsumsi Pemerintah
+PMTB Inventori Net Eksporhttps://depokkota.bps.go.id
+Produk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 201 4-201833Grafik3Perbandingan PDRB Atas Dasar Harga Berlaku dan Atas Dasar
+HargaKonstan 2010 Menurut Pengeluaran,
+Kota Depok ,2014-2018
+Tabel 3 Distribusi PDRB atas Dasar Harga Berlaku Menurut
+Pengeluaran, Kota Depok Tahun2014-2018
+(%)
+Komponen
+Pengeluaran/ Expenditure
+item2014 2015 2016 2017*2018**
+(1) (2) (3) (4) (5) (6)
+1  Konsumsi Rumah Tangga /
+Household Consumption132,10 129,42 126,46 128,27 126,90
+2  Konsumsi LNPRT /
+NPISH Consumption1,41 1,36 1,19 1,15 1,13
+3  Konsumsi Pemerintah /
+Government Consumption4,31 4,38 4,75 4,26 4,08
+4  Pembentukan Modal Tetap
+Bruto /Gross Fixed Capital
+Formation49,55 49,32 49,93 51,04 53,48
+5  Perubahan Inventori
+/Changes of Inventory3,32 3,14 3,22 3,12 2,94
+6  Ekspor / Export 75,83 64,48 63,21 65,84 65,26
+7  Impor / Import166,51 152,10 148,77 153,68 153,79
+PDRB / GRDP 100,00 100,00 100,00 100,00 100,00
+010.00020.00030.00040.00050.00060.00070.000
+2014 2015 2016 2017 2018PDRB ADHB
+PDRB ADHK 2010https://depokkota.bps.go.id
+34Produk Domestik Regional Bru to Kota Depok Menurut Pengeluaran 201 4-2018Terbentuknya total PDRB pengeluaran tidak te rlepas dari kontribusi
+seluruh komponen, yang terdiri dari komponen Pengeluaran Konsumsi Akhir
+Rumahtangga  (PK -RT),Pengeluaran Konsumsi Akhir Lembaga Non Profit
+Yang Melayani Rumah Tangga  (PK -LNPRT),  Pengeluaran Konsumsi Akhir
+Pemerintah (PK -P), Pembentukan Modal Tetap Bruto (PMTB), ekspor neto
+(E) atau ekspor minus impor barang dan jasa .
+DariTabel 3terlihat bahwa selama periode 2013 -2018, PDRB Kota
+Depok, sebagian besar digunakan untuk memenuhi kebutuhan konsumsi akhir
+rumahtangga (PK -RT).Pengeluaran untuk akitvitas pembentukan modal
+(PMTB) juga me mpunyai kontribusi yang relatif besar, yakni berkisa r pada
+angka53,48persen.
+Kota Depok tidak memiliki industri dalam skala besar yang banyak, maka
+ketergantungan terhadap barang import dari luar kotajuga sangat tinggi .Bila
+dilihat dari besaranangkanya,makaKota Depok masih termasuk dalam kota
+dengankategori net im port, artinya importnyalebih besar dari nilaieksportnya
+Kontribusi komponen konsumsi pemerintah (PK -P) berada pada rentang
+4–5persen.Hal tersebut menunjukkan peran pemerintah dalam pembentukan
+PDRB sangat kecildantidakbegitu domi nan.Dalam hal ini dapat diartikan
+bahwapergerakan roda perekonomian Kota Depok masihsangatbergantung
+barang produksi dari kabupaten kotalainnya.Sehingga selisih perdagangan /
+ekspor dan impor di Kota Depok selalu dalam kondisi “defisit” .Kedefisitan ini
+salah satu penyebab utamanya adalah banyaknya kaum komuter yang tinggal di
+Kota Depok .Pada tahun 2017, jumlah komuters diestimasi sudah mencapai
+lima ratus ribuan orang .Mereka ini sehari harinya sebagai motor perekonomian
+di luar Kota Depok, khususnya Daerah Khusus Ibukota Jakarta .Mereka ini
+pula yang banyak membelanjakan uangnya di luar Kota Depok untuk kemudian
+dibawa masuk ke Kota Depok
+Agregat makro lain yang diturunkan dari data PDRB adalah pertumbuhan
+riil PDRB atau pertumbuhan ekonomi (economic growth).Indikator ekonomi ini
+menggambarkan kinerja pembangunan ekonomi suatu wilayah .Pertumbuhan
+Ekonomi Kota Depok sejak tahun 2002 selalu di atas 6 persen , hal ini
+menunjukkan bahwa Kota Depok sedang melaju kencang dalam perekonomian .
+Secara struktur terjadi pergeseran dari Sekunder ke Tersier .
+Sebagaimana terlihat dari Tabel 4, selama periode tahun 2014-2018
+pertumbuhan ekonomi Kota Depok melaju kencang, yakni sebesar 6,81 persen
+(2011);8,06 persen (2012); 6,85 persen (2013); 7 ,28persen(2014);6,64 persenhttps://depokkota.bps.go.id
+Produk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 201 4-201835(2015); 7 ,28 persen (2016); 6,65persen (2017) ;dan 6,83persen (201 8).
+Sedangkan dari Grafik 5 akan terlihat pertumbuhan masing -masing komponen
+PDRB selama periode tahun yang sama .
+Tabel 4 Laju Pertumbuhan PDRB ADHK 2010 Menurut Pengeluaran ,
+Kota Depok Tahun2014-2018
+(%)
+Komponen Pengeluaran /
+Expenditure item2014 2015 2016 2017*2018**
+(1) (2) (3) (4) (5) (6)
+1  Konsumsi Rumah Tangga /
+Household Consumption4,55 4,06 4,12 6,23 5,36
+2  Konsumsi LNPRT /
+NPISH Consumption(2,16) 3,1 (6,14) 2,8 5,1
+3  Konsumsi Pemerintah /
+Government Consumption3,37 4,79 14,76 (4,44) 3,55
+4  Pembentukan Modal Tetap
+Bruto /Gross Fixed Capital
+Formation4,23 4,16 8,81 8,32 9,47
+5Perubahan Inventori / Changes
+of Inventory3,30 (5,19) 3,27 0,08 (1,43)
+6  Net Impor / Net Import 1,46 1,07 3,41 6,18 5,76
+PDRB / GRDP 7,28 6,64 7,28 6,65 6,83
+Grafik4Pertumbuhan PDRB atas dasar harga Konstan 2010 Menurut
+Pengeluaran, Kota Depok , 2014–2018
+-10,00-5,000,005,0010,0015,0020,00
+2014 2015 2016 2017 2018
+Konsumsi Rumah Tangga Konsumsi LNPRT Konsumsi Pemerintah
+PMTB Inventori Net Impor
+PDRBhttps://depokkota.bps.go.id
+36Produk Domestik Regional Bru to Kota Depok Menurut Pengeluaran 201 4-2018Indeks implisit6PDRB pengeluaran menggambarkan besarnya pe rubahan
+harga yang terjadi dari sisi konsumen (rumahtangga, LNPRT, pemerintah, dan
+perusahaan) akhir barang dan jasa, baik yang digunakan untuk keperluan
+konsumsi, investasi maupun ekspor/impor .DariTabel 5 akan terlihat tingkat
+kenaikan harga selama peri ode tahun 2014–2018, baik perubahan harga yang
+terjadi secara umum maupun pada masing -masing komponen .
+Tabel 5 Indeks Implisit PDRB Menurut Pengeluaran,
+Kota Depok Tahun2014-2018
+Komponen Pengeluaran /
+Expenditure item2014 2015 2016 2017*2018**
+(1) (2) (3) (4) (5) (6)
+1  Konsumsi Rumah Tangga /
+Household Consumption121,02 126,23 130,17 135,98 140,70
+2  Konsumsi LNPRT /
+NPISH Consumption126,78 131,47 135,24 138,59 143,25
+3  Konsumsi Pemerintah /
+Government Consumption135,98 146,24 151,82 156,00 158,67
+4  Pembentukan Modal Tetap
+Bruto /Gross Fixed Capital
+Formation123,87 131,14 134,08 138,42 145,98
+5  Perubahan Inventori / Changes of
+Inventory125,11 138,38 150,98 159,75 168,71
+6  Net Impor / Net Import 119,71 126,79 131,55 139,16 146,14
+PDRB / GRDP 124,47 129,32 132,46 135,88 140,16
+3.2PERKEMBANGAN KOMPONEN PDRB PENGELUARAN
+Perubahan struktur perekonomian suatu wilayah sebagai akibat dari
+upayapembangunan ekonomi yang dilaksanakan pada periode tertentu, tidak
+terlepas dari perilaku mas ing-masing komponen pengguna akhir .Setiap
+komponen mempunyai perilaku yang berbeda sesuai dengan tujuan akhir
+penggunaan barang dan jasa .Dataempirismenunjukan bahwa sebagian besar
+produk atau barang dan jasa yang tersedia pada periode tertentu digunaka n
+untuk memenuhi permintaan konsumsi akhir oleh rumahtangga, LNPRT dan
+pemerintah, sebagian lagi digunakan untuk investasi fisik dalam bentuk PMTB
+dan perubahan in ventori.Berikut perilaku masing -masing komponen PDRB
+pengeluaran Kota Depok untuk periode 2014–2018.
+6Indeks perkembanganhttps://depokkota.bps.go.id
+Produk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 201 4-2018373.2.1.Konsumsi Akhir Rumahtangga
+Komponen Pengeluaran Konsumsi Akhir Rumahtangga (PK -RT)
+merupakan pengeluaran terbesar atas berbagai barang dan jasa yang tersedia .
+Data berikut menunjukkan bahwa dari seluruh nilai tambah bruto (PDRB) yang
+diciptakan di Kota Depok ternyata sebagian besar masih digunakan untuk
+memenuhi kebutuhan konsumsi rumahtangga .Dengan kata lain, sebagian besar
+produk (domestik ) yang dihasilkan di wilayah Kota Depok maupun produk
+(impor) yang didatangkan dari luar wilayah atau luar negeri akan digunakan
+untuk memenuhi kebutuhan konsumsi akhir oleh rumahtangga .
+Dalam suatu perekonomian, fungsi utama dari institusi rumahtangga
+adalah sebagai konsumen akhir ( final consumer ) atas barang dan jasa yang tersedia,
+termasuk konsums i oleh rumahtangga khusus (seperti penjara, asrama dan lain -
+lain).Selanjutnya, berbagai jenis barang dan jasa yang dikonsumsi tersebut akan
+diklasifikasikan me nurut7 (tujuh) kelompok COICOP ( Classification of Individual
+Consumption by Purpose ), yaitukelompok makanan dan minuman selain restoran;
+pakaian, alas kaki dan jasa perawatannya; perumahan dan perlengkapan rumah
+tangga; kesehatan dan pendidikan; angkutan dan komunikasi; restoran dan
+hotel; serta kelompok barang dan jasa lainnya .
+Data berikut menunj ukkan bahwa pada periode tahun 2014–2018
+pengeluaran konsumsi akhir rumahtangga mengalami peningkatan signifikan,
+baik dari sisi nominal (atas dasar harga ber laku) maupun secara riil (atas dasar
+harga konstan) .Kenaikan jumlah penduduk menjadi salah satu pendorong
+terjadinya kenaikan nilai pengeluaran konsumsi rumahtangga .Pada gilirannya
+kenaikkan tersebut juga akan mendorong laju pertumbuhan ekonomi secara
+keseluruhan .
+Selama periode 201 0–2018proporsi pengeluaran konsumsi
+rumahtangga terhadap total PDRB fluktuatif, yaitu 149,03persen (2010); 147,00
+persen (2011); 143,79persen (2012); 1 35,50persen (2013); 132,10persen
+(2014);129,42persen (201 5);126,46persen (2016); 128,27persen (2017) ;dan
+126,90persen (2018).Posisi tertinggi terjadi pada tahun 2010 sebesar 149,03
+persen dan terendah pada tahun 201 6sebesar126,46persen.
+Pada masa percepatan pertumbuhan ekonomi, biasanya institusi
+rumahtangga memperbaiki perilaku atau pola konsumsinya .Hal tersebut terjadi
+karena secara umum tingkat pendap atan masyarakat akan naik dan di sisi lain
+persediaan atau penawaran berbagai jenis barang dan jasa di pasar domestikhttps://depokkota.bps.go.id
+38Produk Domestik Regional Bru to Kota Depok Menurut Pengeluaran 201 4-2018bertambah .Kondisisemacam ini memicu naiknya belanja untuk keperluan
+konsumsi, termasuk konsumsi rumahtangga .
+Tabel  6 Perkembangan Ko mponen Konsumsi Rumah Tangga,
+Kota Depok Tahun2014—2018
+U r a i a n 2014 2015 2016 2017*2018**
+(1) (2) (3) (4) (5) (6)
+Total Konsumsi Rumah Tangga
+/Total of Household Consumption
+a.ADHB / Currrent Prices
+(Miliar Rp /Trillion Rp)57867,61 62810,93 67440,12 74835,89 81584,15
+b  ADHK 2010 / 2010 Constant
+Prices (Miliar Rp /Trillion Rp)47816,43 49757,92 51808,60 55033,94 57983,05
+Proporsi  terhadap PDRB /
+Proportion to GRDP
+( %ADHB / Currrent Prices )132,10 129,42 126,46 128,27 126,90
+Rata-ratakonsumsi per -Kapita /
+Average of per -capita consumtion
+(Ribu Rp/Thousand Rp)
+a.ADHB / Currrent Prices
+(Ribu Rp /Thousand Rp)28457,04 29823,31 30938,49 33193,82 35009,65
+b.ADHK 20 10/
+2010 Constant Prices
+(RibuRp/ThousandRp)23514,26 23625,60 23767,45 24410,57 24881,87
+Pertumbuhan/ Growth7
+a.Total konsumsi RT/ Total of
+Household Consumption4,55 4,06 4,12 6,23 5,36
+b.Perkapita /Per capita 0,88 0,47 0,60 2,71 1,93
+Jumlah penduduk /
+Number of population
+(orang/person)20335082106102217981322545132330333
+Secara rata -rata, konsumsi per rumahtangga per kapita dari tahun ke
+tahun mengalami kenaikan, baik menurut atas dasar harga berlaku maupun atas
+dasar harga konstan 2010 .Pada tahun 2010, setiap orang diKota Depok secara
+rata-ratamembelanjakan uang sekitarRp22581145,-setahun untuk memenuhi
+kebutuhan konsumsinya .Pengeluaran tersebut berturut-turutmeningkat
+menjadiRp 23861074,-(2011);Rp 25294868,-(2012);Rp 26673953,-
+(2013);Rp 28457036,-(2014);Rp 29823309,-(2015);Rp 30938489,-(2016);
+Rp 33 193 816, -(2017);danpada tahun 2018menjadiRp35009653,-
+Sementara itu, atas dasar harga Konstan (2010) rata -rata konsumsi per kapita
+selamadelapantahun terakhir ini tumbuh sebesar 1, 25persen.
+7Diturunkan dari perhitungan PD RB atas dasar harga konstan (ADHK 20 10)https://depokkota.bps.go.id
+Produk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 201 4-201839Di sisi lain, kenaikan rata -rata konsumsi per -kapita cenderung searah
+dengan kenaikan jumlah penduduk .Pertumbuhan rata -rata konsumsi per -kapita
+menunjukan peningkatan, baik atas dasar harga berlaku maupun atas dasar
+harga konstan 2010 .Kondisi ini menunjukan rata -rata konsumsi setiap
+penduduk meningkat, baik secara kuantitas (volume)maupun secara nilai
+(termasuk peningkatan kualitas) .Rata-rata konsumsi per -kapita secara “riil”
+meningkat pada kisaran 0,47sd2,71persen.Peningkatan tersebut tentu
+berpengaruh pada struktur konsumsi rumahtangga, seperti terlihat pada tabel
+berikut:
+Tabel  7 Struktur Komponen Konsumsi Rumahtangga Kota Depok ,
+Tahun2014-2018
+(%)
+Kelompok Konsumsi /
+Consumption group2014 2015 2016 2017*2018**
+(1) (2) (3) (4) (5) (6)
+a.Makanan, Minuman, dan Rokok/
+Food, beverages, and tobacco26,78 26,86 28,52 29,68 30,03
+b.Pakaian dan Alas Kaki /
+Clothing and footwear2,64 2,61 2,59 2,54 2,50
+c.Perumahan, Perkakas,
+Perlengkapan dan
+Penyelenggaraan Rumah Tangga
+/Housing, household equipment and
+routine household maintenance9,67 9,82 9,59 9,58 9,35
+d.Kesehatan & Pendidikan /
+Health and education7,13 7,19 7,26 6,87 6,96
+e.Transportasi, Komunikasi,
+Rekreasi, dan Budaya /
+Transport, Communication,
+Recreation and culture36,79 37,01 35,87 35,36 35,30
+f.Hotel & Restoran /
+Hotels, and restaurants13,16 12,75 12,46 12,42 12,32
+g.Lainnya /
+Miscellaneous goods and services3,83 3,76 3,71 3,54 3,53
+TotalKonsumsi /
+Total of consumption100,00100,00 100,00 100,00 100,00
+Struktur komponen komsumsi rumah tangga Kota Depok pada periode
+tahun2014-2017 tidak banyak mengalami perubahan .Komsumsi rumahtangga
+di Kota Depok yang terbesar masih untuk transportasi, komunikasi, rekreasi,
+dan budaya s erta untuk makanan, minuman, dan rokok .Nilai konsumsi
+masyarakat Kota Depok untuk kedua jenis kelompok konsumsi tersebut
+mencapai 65, 33persen pada tahun 2018.https://depokkota.bps.go.id
+40Produk Domestik Regional Bru to Kota Depok Menurut Pengeluaran 201 4-2018Tabel 8 Pertumbuhan Implisit (Indeks Harga)
+Pengeluaran Konsumsi Akhir  Rumah Tangga
+KotaDepok,Tahun2014-2018
+(%)
+Kelompok Konsumsi /
+Consumption group2014 2015 2016 2017*2018**
+(1) (2) (3) (4) (5) (6)
+a.Makanan, Minuman, dan
+Rokok/Food, beverages, and
+tobacco7,94 4,50 8,64 3,68 3,27
+b.Pakaian dan Alas Kaki /
+Clothing and footwea r2,25 1,14 1,63 3,04 1,83
+c.Perumahan, Perkakas,
+Perlengkapan dan
+Penyelenggaraan Rumah
+Tangga / Housing, household
+equipment and routine
+household maintenance5,49 6,27 1,28 5,29 1,37
+d.Kesehatan & Pendidikan /
+Health and education5,13 4,00 3,55 1,80 5,65
+e.Transportasi, Komunikasi,
+Rekreasi, dan Budaya /
+Transport, Communication,
+Recreation and culture6,19 5,25 0,24 5,23 4,26
+f.Hotel & Restoran /
+Hotels, and restaurants2,55 1,16 1,25 2,94 2,33
+g.Lainnya /
+Miscellaneous goods a nd
+services2,96 2,57 2,07 4,47 1,89
+Total Konsumsi /
+Total of consumption5,75 4,31 3,12 4,46 3,47
+Sementara itu, tingkat perubahan harga yang secara implisit disajikan pada
+Tabel 8, menunjukkan peningkatan setiap tahunnya pada masing -masing
+kelompok pengeluaran konsumsi rumahtangga .Pada tahun 2018kelompok
+konsumsi yang mengalami peningkatan harga tertingi adalah Kesehatan dan
+Pendidikan , dan peningkatan harga yang terendah ada pada kelompok
+pengeluaran Perumahan, Perkakas, Perlengkapan dan P enyelenggaraan Rumah
+Tangga.
+3.2.2.Konsumsi Akhir LNPRT
+Lembaga Non Profit yang melayani Rumah Tangga (LNPRT) adalah
+salah satu unit institusi yang melakukan kegiatan produksi, konsumsi dan
+akumulasi aset .Keberadaannya diakui oleh hukum atau masyarakat , terpisah
+dari orang atau entitas lain yang memiliki atau mengendalikan .Dalamhttps://depokkota.bps.go.id
+Produk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 201 4-201841kegiatannya, LNPRT merupakan mitra pemerintah dalam mengatasi berbagai
+masalah sosial seperti kemiskinan dan lingkungan hidup
+Tabel 9 Perkembangan Pengeluaran Akhir Konsumsi LNPRT
+Kota Depok Tahun2014–2018
+U r a i a n 2014 2015 2016 2017*2018**
+(1) (2) (3) (4) (5) (6)
+Total  Konsumsi LNPRT
+aADHB(Milyar Rp)616,79 659,22 636,54 670,52 728,74
+b  ADHK 2010 (Milyar Rp) 486,50 501,44 470,66 483,82 508,71
+Proporsi  terhadap PDRB
+( %  ADHB)1,41 1,36 1,19 1,15 1,13
+Pertumbuhan (ADHK 2010) (2,16) 3,07 (6,14) 2,80 5,14
+Total pengeluaran konsumsi LNPRT dalam kurun waktu tahun 2014-
+2018mengalami fluktuasi baik atas dasar harga berlaku maupun atas dasar harga
+konstan.Pada tahun 2014konsumsi LNPRT sebesar 616,79miliar rupiah,
+kemudian pa da tahun-tahun berikutnya yaitu 659,22miliar rupiah (2015);
+636,54miliar rupiah (2016) ;670,52miliar rupiah ( 2017);dan727,74miliar
+rupiah (2018).Pertumbuhan pengeluaran konsumsi LNPRT tahun dasar 2010
+juga berturut -turut adalah -2,16 persen (2014), 3,07 persen (2015), -6,14persen
+(2016),2,80persen (2017) dan5,14persen (201 8).Pertumbuhan tertinggi
+terjadi pada tahun 2018karena ada nya persiapan Pilpres2019.
+3.2.3.Konsumsi Akhir Pemerintah
+Pengeluaran Konsumsi Pemerintah terdiri dari Pengeluaran Konsumsi
+Individu dan Pengeluaran Konsumsi Kolektif .Barang dan jasa individu
+merupakan barang dan jasa privat, dimana ciri -ciri barang privat adalah :
+a.Scarcity, yaitu ada kelangkaan/keterbatasan dalam jumlah .
+b.Excludable consumption , yaitu konsumsi suatu barang dapat dibatasi hanya
+pada mereka yang memenuhi persyaratan tertentu (biasanya harga) .
+c.Rivalrous competition , yaitu konsumsi oleh satu konsumen akan mengurangi
+atau menghilangkan kesempatan pihak lain untuk melakukan hal serupa .https://depokkota.bps.go.id
+42Produk Domestik Regional Bru to Kota Depok Menurut Pengeluaran 201 4-2018Contoh barang dan jasa yang dihasilkan peme rintah dan tergolong sebagai
+barang dan jasa individu adalah jasa pelayanan kesehatan pemerintah di rumah
+sakit/puskesmas dan jasa pendidikan di sekolah/universitas negeri .
+Sedangkan barang dan jasa kolektif ekuivalen dengan barang publik
+yang memiliki ci ri :
+a.Non rivalry , yaitu pengeluaran satu konsumen terhadap suatu barang tidak
+mengurangi kesempatan konsumen lain untuk juga mengkonsumsi barang
+tersebut.
+b.Non excludable , yaitu apabila suatu barang publik tersedia, maka tidak ada
+yang dapat menghalangi siapapun untuk memperoleh manfaat dari barang
+tersebut atau dengan kata lain setiap orang memiliki akses ke barang
+tersebut.
+Contoh barang dan jasa yang dihasilkan pemerintah dan tergolong sebagai
+barang dan jasa kolektif adalah jasa pertahanan yang dilakukan TNI dan
+keamanan yang dilakukan kepolisian .
+Secara total, pengeluaran konsumsi akhir pemerintah atas dasar harga
+berlakumenunjukan peningkatan, sedangkan atas dasar harga konstan 2010 ,
+pada periode tahun 2014sampai dengan tahun 2018selalu menunjukkan
+peningkatan, namun pada tahun 2017 pengeluaran konsumsi pemerintah atas
+dasar harga konstan 2010 mengalami sedikit penurunan .
+Pada tahun 2014total pengeluaran konsumsi akhir pemerintah atas dasar
+harga berlaku adalah sebesar 1 887,10miliarrupiah, kemudian pada tahun -
+tahun berikutnya sebesar 2 126,78miliar rupiah (2015), 2533,80miliar rupiah
+(2016),2487,92miliar rupiah (2017) dan 2620,09miliar rupiah (201 8).
+Demikian halnya dengan konsumsi pemerintah atas dasar harga konstan 2010,
+pada tahun 2014sebesar 1 387,81miliar rupiah, pada tahun 2015 sebesar 1
+454,28 miliar rupiah, pada tahun 2016 sebesar 1 668,93miliar rupiah, pada
+tahun 2017 sedikit mengalami penu runan menjadi 1 594,77miliar rupiah ,
+sedangkan pada tahun 2018 kembali meningkat menjadi 1 651,32 miliar rupiah.
+Hal ini mengindikasikan, bahwa secara riil telah terjadi fluktuasi pengeluaran
+pemerinta h dari sisi kuantitas walaupun dengan range pertumbuh an yang tidak
+terlalu lebar .
+Menarik untuk dicermati lebih lanjut bahwa proporsi pengeluaran akhir
+pemerintah terhadap PD RBKota Depok pada kurun waktu 2014-2018juga
+mengalami fluktuasi dengan range yan g sangat sempit dari 4,08sd4,75persen,
+berikut ini rincian per tahunnya, dari 4,31 persen pada tahun 2014, kemudianhttps://depokkota.bps.go.id
+Produk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 201 4-201843menjadi 4,38 persen pada tahun 2015, meningkat menjadi 4, 75persen pada
+tahun 2016, dan pada ta hun 2017 menjadi 4, 26persen, kemudian pa da tahun
+2018 menjadi 4,08 persen. Sepanjang periode tersebut, proporsi terendah terjadi
+pada tahun 2018sebesar4,08persen; sedangkan pr oporsi tertinggi pada tahun
+2016 sebesar 4,75persen.
+Tabel 10 Perkembangan Pengeluaran Konsumsi Akhir Pemerintah
+Kota Depok Tahun2014-2018
+Salah satu fungsi pemerintah adalah memberikan jasa layanan pada
+publik atau masyarakat dalam bentuk jasa kolektif maupun individual .Dalam
+praktek, pengeluaran pemerintah ini selalu dikaitkan dengan luasnya cakupan
+layanan yang diberikan pada masyarakat (publik), meskipun tidak seluruh
+masyarakat dapat merasakan manfaatnya secara langsung .Kondisi tersebut
+dapat diartikan bahwa setiap rupiah pengeluaran pemerintah harus ditujukan
+untuk melayani penduduk, baik langsung maupun tidak langsun g.Pengeluaran
+konsumsi pemerintah secara total menunjukkan peningkatan, hal ini diikuti oleh
+8Tidak termasuk polisi dan militerU r a i a n 2014 2015 2016 2017*2018**
+(1) (2) (3) (4) (5) (6)
+Total Konsumsi Pemerintah
+aADHB(Miliar Rp) 1887,10 2126,78 2533,80 2487,92 2620,09
+bADHK 2010 (Miliar Rp) 1387,81 1454,28 1668,93 1594,77 1651,32
+Proporsi terhadap PDRB
+(%-ADHB) 4,31 4,38 4,75 4,26 4,08
+Konsumsi Pemerintah per -kapita (Ribu
+Rp) Kapita
+aADHB 928,000 1009,818 1162,392 1103,527 1124,343
+bADHK 2010 682,472 690,506 765,628 707,370 708,619
+Konsumsi Pemerintah per -pegawai
+pemerintah (Ribu Rp)
+aADHB 246068,05 270961,97 354575,64 348154,98 366651,67
+bADHK 2010 180963,79 185281,82 233546,75 223170,24 231083,01
+Pertumbuhan 8)
+aTotal konsumsi pemerintah 3,37 4,79 14,76 (4,44) 3,55
+bKonsumsi perkapita (0,26) 1,18 10,88 (7,61) 0,18
+cKonsumsi per -pegawai pemerintah 3,43 2,39 26,05 (4,44) 3,55
+Jumlah Pegawai Pemerintah8 7669 7849 7146 7146 7146
+Jumlah penduduk (orang) 20335082106102217981322545132330333
+https://depokkota.bps.go.id
+44Produk Domestik Regional Bru to Kota Depok Menurut Pengeluaran 201 4-2018adanya peningkatan pada rata -rata konsumsi pemerintah per -kapita.Pada tahun
+2014konsumsi pemerintah per -kapita atas dasar harga berlaku sebesar 928000
+rupiahterus meningkat pada tahun -tahun setelah itu, yaitu menjadi 1009818
+rupiah (2015); 1162392rupiah (2016) ;1103527rupiah (2017)dan mencapai
+1124343rupiah pada tahun 2018.
+Rata-rata konsumsi pemerintah per -kapita atas dasar harga konstan
+2010 juga menunjukkan adanya peningkatan setiap tahunnya kecuali pada tahun
+2017, dengan masing -masing senilai 682472rupiah (2014); 690506rupiah
+(2015);765628rupiah (2016) ; 707370rupiah (2017) dan708619rupiah
+(2018).Hal ini menunjukkan adanya penin gkatan pengeluaran konsumsi
+pemerintah secara kuantitas, dengan laju pertumbuhan sebesar 3,37persen
+(2014) dan menjadi 4,79persen (20 15)Kemudian pada tahun tahunberikutnya
+pertumbuhan konsumsi pemerintah per kapita menjadi14,7,69persen (201 6);
+(-4,44)persen (201 7) dan3,55persen (2017)
+Rata-rata konsumsi per pegawai pemerintah menunjukkan
+kecenderungan yang meningkat .Pada tahun 201 4konsumsi pemerintah per -
+pegawai pemerintah sebesar 246068,05ribu rupiah, kemudian pada tahun -
+tahun berikutnya masing-masing270961,97ribu rupiah (201 5);354575,64ribu
+rupiah (201 6);348154,98ribu rupiah (201 7) dan366651,67ribu rupiah (201 8).
+Gambaran tentang konsumsi akhir pemerintah secara “riil” ini
+menunjukkan peningkatan baik secara keseluruhan maup un rata-rata (per
+penduduk maupun per pegawa i pemerintah) .Parameter ini adalah pendekatan
+untuk mengukur  pemerataan kesempatan masyarakat atas pengeluaran sumber
+daya finansial oleh pemerintah .
+3.2.4.Pembentukan Modal Tetap Bruto
+Komponen pembentukan modal tetap bruto (PMTB) pada sajian
+PDRB menurut pengeluaran, lebih menjelaskan tentang bagian dari pendapatan
+(income) yang direalisasikan menjadi i nvestasi (fisik ).Atau pada sisi yang berbeda
+dapat pula diartikan sebagai gambaran dari berbagai produk b arang dan jasa
+yang sebagian digunaka n sebagai investasi fisik (kapital)9.Fungsi kapital adalah
+sebagai input tidak langsung ( indirect input ) di dalam proses produksi pada
+berbagai lapangan usaha .Kapital ini dapat berasal dari produksi domestik
+maupun da ri impor.
+9Selain bagian lain yang menjadi konsumsi antara, konsumsi akhir, ataupun dieksporhttps://depokkota.bps.go.id
+Produk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 201 4-201845Pengelompokan PMTB pada PDRB tahun dasar 2010 dibagi menjadi 2
+(dua) kelompok yaitu Bangunan dan Non Bangunan .Data di bawah ini
+menjelaskan bahwa, secara keseluruhan pertumbuhan PMTB dalam kurun
+waktu 201 4–2018berfluktuasi dari 4,23persen (2014) menjadi 9,47persen
+(2018), sementara di tahun lainnya masing -masing4,16persen (2015);8,81
+persen (2016) dan8,32persen (2017)Pertumbuhan PMTB tertinggi terjadi
+pada tahun 2017 dan 2018, hal ini disebabkan oleh gencarnya pembangunan
+konstruksi d i Kota Depok .
+Tabel11Perkembangan dan Struktur P MTBKota Depok
+Tahun2014–2018
+U r a i a n 2014 2015 2016 2017*2018**
+(1) (2) (3) (4) (5) (6)
+Total PMTB
+a.ADHB(Miliar Rp) 21706,98 23936,48 26630,42 29779,05 34382,90
+bADHK 2010 (Miliar Rp) 17524,00 18253,30 19861,64 21514,29 23552,48
+Proporsi terhadap PDRB
+(%-ADHB)49,55 49,32 49,93 51,04 53,48
+Struktur PMTB10
+a.Bangunan (Miliar Rp ) 17959,82 19822,21 22034,90 24603,10 28380,43
+(%) 82,74 82,81 82,74 82,62 82,54
+b.NonBangunan
+(Mil Rp)3747,16 4114,27 4595,52 5175,95 6002,46
+(%) 17,26 17,19 17,26 17,38 17,46
+Total PMTB
+(Miliar Rp) 21706,98 23936,48 26630,42 29779,05 34382,90
+(%) 100,00 100,00 100,00 100,00 100,00
+Pertumbuhan11(%)
+a.Bangunan 4,43 4,03 9,15 8,38 9,35
+b.Non Bangunan 3,34 4,76 7,24 8,02 10,08
+Total PMTB 4,23 4,16 8,81 8,32 9,47
+3.2.5.Perubahan Inventori
+Secara konsep, yang dimaksud dengan perubahan inventori adalah
+perubahan dalam bentuk “persediaan”berbagai barang yang belum digunakan
+10Diturunkan dari perhitungan PD RB atas dasar harga berlaku (ADHB)
+11Diturunkan dari perhitungan PDRB atas dasar harga konstan (ADHK2010)https://depokkota.bps.go.id
+46Produk Domestik Regional Bru to Kota Depok Menurut Pengeluaran 201 4-2018lebih lanjut dalam proses produksi, konsumsi ataupun investasi (kapital) .
+Perubahan yang dimaksud disini bisa berarti penambahan (bertanda positif) dan
+ataupengurangan (bertanda negatif) .
+Dari sisi penghitungan , komponen Perubahan Inventori merupakan
+salahsatu komponen yang hasilnya bisamemiliki 2 (dua) tandaangka, positif
+atau negatif (disamping komponen net ekspor antar daerah) .Apabila perubahan
+inventori bertanda positif berarti terjadi penambahan persedi aan barang,
+sedangkan apabila bertanda negatif berarti terjadi pengurangan persediaan .
+Terjadinya penumpukan barang inventori mengindikasikan bahwa distribusi
+atau pemasaran tidak berjalan dengan sempurna .Secara umum, komponen
+perubahan inventori dihitung berdasarkan pengukuran terhadap nilai persediaan
+barang pada awal dan akhir tahun dari dua posisi nilai persediaan (konsep stok) .
+Tabel 12 Perkembangan dan Struktur Perubahan Inventori Kota Depok ,
+Tahun2014–2018
+U r a i a n 2014 2015 2016 2017*2018**
+(1) (2) (3) (4) (5) (6)
+Total Nilai Inventori
+a.ADHB(Miliar Rp) 1453,41 1524,21 1717,35 1818,54 1893,08
+b.ADHK 2010 (Miliar Rp) 1161,74 1101,43 1137,48 1138,39 1122,08
+Proporsi terhadap PDRB
+(%-ADHB)3,32 3,14 3,22 3,12 2,94
+Proporsi terhadap PDRB
+(%-ADHK)3,30 2,93 2,83 2,65 2,45
+Berbeda dengan komponen pengeluaran lain yang dapat dianalisis agak
+rinci, perubahan inventori baru dapat dianalisis dari sisi proporsinya saja .
+Perbedaan dalam pendekatan dan tata c ara estimasi menyebabkan komponen
+inventori tidak banyak dikaji lebih jauh sebagaimana dilakukan pada pada
+komponen peng eluaran lainnya .
+Pada tahun 2014perubahan inventori atas dasar harga berlaku sebesar
+1453,41miliar rupiah, yang kemudian meningkat p ada tahun 2015dan2016
+sebesar1524,21miliar rupiah dan 1717,35miliar rupiah .Pada tahun 2017https://depokkota.bps.go.id
+Produk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 201 4-201847perubahan inventori mencapai 1 818,54 miliar rupiah, tahun 2018kembali
+mencapai 1 893,08miliar rupiah .
+Sementara itu, proporsi perubahan inventori terhadap total PDRB di
+Kota Depok mengalami kecenderungan penurunan tipis .Pada tahun 201 4,
+proporsi peruba han inventori adalah 3, 32persen, selanjutnya 3,14persen
+(2015),3,22persen (201 6), 3,12persen (201 7) dan2,94persen (201 8).Proporsi
+perubahan inventori tertinggi terdapat pada tahun 201 4.Hal ini disebabkan oleh
+mulai maraknya perdagangan dalam sistem perdagangan online dan biasanya
+berasal dari luar daerah (ekspor), hal ini menyebabkan pedagang konvensional
+mengalami penumpukan stock dari tahun sebelumn ya.
+3.2.6.Ekspor Barang dan Jasa
+Dalam struktur permintaan akhir, transaksi ekspor mengga mbarkan
+berbagai produk barang dan jasa yang tidak dikonsumsi di wilayah ekonomi
+Kota Depok , tetapi dikonsumsi oleh pihak yang berdomisili di wilayah lain, baik
+itu kabupaten lain di dalam satu propinsi, propinsi lain, maupun luar negeri,
+baik secara langs ung maupun tidak langsung .Termasuk pula dalam ekspor
+pembelian oleh badan -badan internasional, kedutaan besar (termasuk konsulat),
+awak kapal (udara maupun laut) yang singgah dan sebagainya .https://depokkota.bps.go.id
+48Produk Domestik Regional Bru to Kota Depok Menurut Pengeluaran 201 4-2018https://depokkota.bps.go.id
+Produk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 201 4-201849BAB IV
+PERKEMBANGAN AGREGAT
+PDRB PENGELUARAN
+KOTADEPOK
+TAHUN 201 4-2018https://depokkota.bps.go.id
+50Produk Domestik Regional Bru to Kota Depok Menurut Pengeluaran 201 4-2018https://depokkota.bps.go.id
+Produk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 201 4-201851Berbagai indikator ekonomi makro yang lazim digunakan dalam analisis
+sosial ekonomi dapat diturunkan dari seperangkat data PRDBSelain dianali sis
+secara deskriptif terhadap nominal PDRB, dapat juga dilakukan analisis
+proporsi pengeluaran konsumsi akhir terhadap PDRB, Average Propensity To
+Consume(APC)danAverage Propensity To Save (APS), serta analisis Incremental
+CapitalOutput Ratio (ICOR) Analisis turunan lanjutan dari PDRB yang bisa
+dilakukan tentunya disesuaikan dengan ketersediaan data dan informasi
+pendukung yang ada
+4.1PDRB (NOMINAL)
+Agregat ini menjelaskan nilai produk barang dan jasa yang dihasilkan di
+dalam wila yah ekonomi Kota Dep okdi mana di dalamnya masih terkandung
+nilai penyusutan PDRB dapat digunakan sebagai ukuran “produktivitas”,
+karena menjelaskan kemampuan wilayah dalam menghasilkan produk domestik,
+yang dihitung melalui 3 (tiga) pendekatan, yaitu pen dekatan nilai tambah ,
+pengeluaran, dan pendapatan
+Dari series data PDRB pengeluaran dapat diturunkan beberapa ukuran
+yang berkaitan dengan PDRB maupun variabel pendukung lain (seperti rumah
+tangga, dan tenaga kerja) Untuk melihat perkembangan tingkat pem erataan,
+misalnya, d apat dilihat dari data PDRB perkapita
+Tabel  15Produk Domestik Regional Bruto dan PD RB Perkapita
+Kota Depok , 2014-2018
+U r a i a n 2014 2015 2016 2017*2018**
+(1) (2) (3) (4) (5) (6)
+Nilai PDRB (Miliar Rp)
+-ADHB 43.806,04 48.532,64 53.331,0558.344,50 64.292,10
+-ADHK 2010 35.192,76 37.529,47 40.263,24 42.939,37 45.870,50
+PDRB perkapita (Ribu Rp)
+-ADHB 21.542 23.044 24.466 25.879 27.589
+-ADHK 2010 17.306 17.819 18.471 19.046 19.684
+Jumlah penduduk (orang) 2.033.508 2.106.102 2.179.813 2.254.513 2.330.333
+Pertumbuhan Penduduk (%) 3,64 3,57 3,50 3,43 3,36
+https://depokkota.bps.go.id
+52Produk Domestik Regional Bru to Kota Depok Menurut Pengeluaran 201 4-20184.2PROPORSI PENGELUARAN KONSUMSI AKHIR
+TERHADAP PDRB
+Yang dimaksud dengan konsumsi akhir adalah penggunaan berbagai
+produk barang dan jasa akhir ( baik berasal dari produk domestik maupun
+impor), untuk menunjang aktivitas ekonomi Pelaku konsumsi akhir meliputi
+rumah tangga, LNPRT, dan pemerintah .Walaupun ketiga institusi tersebut
+mempunyai fungsi yang berbeda dalam sistem ekonomi, tetapi sama -sama
+membelanjakan sebagian pendapatannya untuk tujuan konsumsi akhir
+Tabel13Proporsi Total Pengeluaran Konsumsi Akhir
+terhadap PDRB KotaDepok,2014-2018
+U r a i a n 2014 2015 2016 2017*2018**
+(1) (2) (3) (4) (5) (6)
+Konsumsi Akhir ADHB
+(Miliar Rp)60.371,49 65.596,93 70.610,45 77.994,33 84.932,99
+a  Rumah Tangga 57.867,61 62.810,93 67.440,12 74.835,89 81.584,15
+bLNPRT 616,79 659,22 636,54 670,52 728,74
+c  Pemerintah 1.887,10 2.126,78 2.533,80 2.487,92 2.620,09
+PDRBADHB
+(Miliar Rp)43.806,04 48.532,64 53.331,05 58.344,50 64.292,10
+Proporsi 137,82 135,16 132,40 133,68 132,10
+Dari tabel di atas terlihat bahwa pada periode 2013 sampai dengan 2017,
+nilai total konsumsi akhir selalu lebih besar dibandingkan dengan nil ai PDRB
+nyaHal ini menunjukkan bahwa sebagian besar penduduk Kota Depok
+melakukan impor barang dan jasa yang dikonsumsinyahttps://depokkota.bps.go.id
+Produk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 201 4-201853BAB V
+PENUTUPhttps://depokkota.bps.go.id
+54Produk Domestik Regional Bru to Kota Depok Menurut Pengeluaran 201 4-2018https://depokkota.bps.go.id
+Produk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 201 4-201855PENUTUP
+1.PDRB menurut pengeluaran tahun 2013 s d 2017 dapat
+menggambarkan perubahan struktur dan perkembangan kondisi
+ekonomi Kota Depok pada periode bersangkutan Analisis ekonomi
+dari sisi PDRB pengeluaran akan berbeda dengan analisis dari sisi
+lapangan usaha (industri) yang lebih fokus pada perilaku produksi
+Analisis PDRB pengeluaran terfokus pada perilaku pe nggunaan barang
+dan jasa akhir, baik untuk tujuan kons umsi akhir, investasi (fisik),
+maupun perdagangan luar daerah Empat kelompok sektor atau pelaku
+ekonomi yang menggunakan barang dan jasa akhir dalam suatu
+perekonomian adalah rumah tangga, lembaga non -profit yang melayani
+rumah tangga/LNPRT, pemerintah, d an perusahaan
+2.Publikasi ini menyajikan analisis sederhana tentang perilaku konsumsi,
+investasi, dan perdagangan luar negeri dan perdagangan antar daerah
+yang dimaksud Analisis didasarkan pada indikato r yang diturunkan dari
+PDRB pengeluaran Analisis ters ebut juga dilengkapi dengan indikator
+sosial demografi (seperti penduduk, dan pegawai negeri), sehingga hasil
+analisis yang disajikan menjadi lebih informatif
+3.Data dapat disajikan dalam bentuk series d ata dari tahun 2013 s d 2017,
+sehingga mudah di dalam menggambarkan perubahan atau
+kecenderungan yang terjadi antara waktu Masing-masing parameter
+disajikan dalam satuan yang berbeda (rupiah, indeks, persentase, rasio,
+unit, dsb) sesuai dengan tujuan anal isis dan karakteristik masing -masing
+data
+4.Data dan in dikator yang diturunkan dari sajian data PDRB menurut
+pengeluaran ini,dapat dijadikan acuan bagi pengembangan dan
+perluasan indikator ekonomi makro lain seperti pendapatan disposabel,
+tabungan, serta m odel ekonomi sederhana yang saling berkaitan antara
+seluruh variabel ekonomi dan variabel yang tersedia Bahkan secara
+langsung maupun tidak langsung dapat dikaitkan dengan tampilan data
+ekonomi makro lain seperti PDRB menurut lapangan usaha (industri),
+Tabel Input -Output, Sistem Neraca Sosial Ekonomi (SNSE) dan
+bahkan Neraca Arus Dana (NAD)
+5.Sebagian data tentang interaksi dengan luar daerah ( external account )
+secara agregat disajikan di sini, seperti ekspor dan impor Transaksihttps://depokkota.bps.go.id
+56Produk Domestik Regional Bru to Kota Depok Menurut Pengeluaran 201 4-2018eksternal ini menggambarka n seberapa jauh ketergantungan ekonomi
+Kota Depok terh adap ekonomi luar daerahhttps://depokkota.bps.go.id
+Produk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 201 4-201857LAMPIRANhttps://depokkota.bps.go.id
+58Produk Domestik Regional Bru to Kota Depok Menurut Pengeluaran 201 4-2018https://depokkota.bps.go.id
+Produk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 201 4-201859Tabel 1 Produk Domestik Regional Bruto Atas Dasar Harga Berlaku
+Menurut Pengeluaran, Kota Depok Tahun2014-2018
+(Milyar Rupiah)
+KOMPONEN PENGELUARAN 2014 2015 2016 2017* 2018**
+(1) (2) (3) (4) (5) (6)
+1Pengeluaran Konsumsi Rumah
+Tangga (1as/d 1g)57867,61 62810,93 67440,12 74835,89 81584,15
+1aMakanan, Minuman, dan Rokok 15499,33 16873,61 19234,25 22212,71 24500,50
+1bPakaian dan Alas Kaki 1525,13 1640,42 1747,85 1903,43 2037,94
+1cPerumahan, Perkakas,
+Perlengkapan dan
+Penyelenggaraan Rumah
+Tangga5595,17 6165,28 6468,22 7172,08 7628,34
+1dKesehatan dan Pendidikan 4124,53 4516,69 4895,41 5143,15 5681,87
+1eTransportasi, Komunikasi,
+Rekreasi & Budaya21292,09 23249,43 24189,77 26460,28 28797,21
+1fHotel dan Restoran 7617,22 8005,42 8400,14 9295,38 10055,22
+1gLainnya 2214,13 2360,08 2504,48 2648,87 2883,08
+2Pengeluaran Konsumsi LNPRT 616,79 659,22 636,54 670,52 728,74
+3Pengeluaran Konsumsi Pemerintah 1887,10 2126,78 2533,80 2487,92 2620,09
+4Pembentukan Modal Tetap Bruto 21706,98 23936,48 26630,42 29779,05 34382,90
+4aBangunan 17959,82 19822,21 22034,90 24603,10 28380,43
+4bNon Bangunan 3747,16 4114,27 4595,52 5175,95 6002,46
+5Perubahan Inventori 1453,41 1524,21 1717,35 1818,54 1893,08
+6Net Ekspor Impor Antar Daerah (39725,85)(42524,98)(45627,17)(51247,42)(56916,87)
+PDRB  (1 + 2 + 3 + 4 + 5 + 6 ) 43806,04 48532,64 53331,05 58344,50 64292,10
+*    Angka Sementara
+**  Angka Sangat Sementarahttps://depokkota.bps.go.id
+60Produk Domestik Regional Bru to Kota Depok Menurut Pengeluaran 201 4-2018Tabel 2 Produk Domestik Regional Bruto Atas Dasar Harga Konstan
+Menurut Pengeluaran, Kota Depok Tahun2014-2018
+(Milyar Rupiah)
+KOMPONEN PENGELUARAN 2014 2015 2016 2017* 2018**
+(1) (2) (3) (4) (5) (6)
+1Pengeluaran Konsumsi Rumah
+Tangga (1as/d 1g)47816,43 49757,92 51808,60 55033,94 57983,05
+1aMakanan, Minuman, dan Rokok 11194,06 11662,23 12236,75 13630,08 14557,95
+1bPakaian dan Alas Kaki 1388,49 1476,55 1548,08 1636,09 1720,25
+1cPerumahan, Perkakas,
+Perlengkapan dan
+Penyelenggaraan Rumah
+Tangga4708,31 4881,76 5056,90 5325,52 5587,92
+1dKesehatan dan Pendidikan 3592,59 3782,86 3959,57 4086,23 4272,84
+1eTransportasi, Komunikasi,
+Rekreasi & Budaya18191,89 18872,8319589,21 20361,99 21255,49
+1fHotel dan Restoran 6819,99 7085,17 7342,42 7892,63 8343,81
+1gLainnya 1921,11 1996,52 2075,67 2101,39 2244,77
+2Pengeluaran Konsumsi LNPRT 486,50 501,44 470,66 483,82 508,71
+3Pengeluaran Konsumsi Pemerintah 1387,81 1454,28 1668,93 1594,77 1651,32
+4Pembentukan Modal Tetap Bruto 17524,00 18253,30 19861,64 21514,29 23552,48
+4aBangunan 14456,54 15039,84 16415,46 17791,59 19454,66
+4bNonBangunan 3067,46 3213,47 3446,18 3722,70 4097,82
+5Perubahan Inventori 1161,74 1101,43 1137,48 1138,39 1122,08
+6Net Ekspor Impor Antar Daerah (33183,72) (33538,89) (34684,06) (36825,84) (38947,13)
+PDRB  (1 + 2 + 3 + 4 + 5 + 6 ) 35192,76 37529,47 40263,24 42939,37 45870,50
+*    Angka Sementara
+**  Angka Sangat Sementarahttps://depokkota.bps.go.id
+Produk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 201 4-201861Tabel 3 Disribusi Persentase Produk Domestik Regional Bruto
+Atas Dasar Harga Berlaku Menurut Pengeluaran, Kota Depok 2014-2018
+(Persen)
+KOMPONEN PENGELUARAN 2014 2015 2016 2017* 2018**
+(1) (2) (3) (4) (5) (6)
+1Pengeluaran Konsumsi Rumah
+Tangga (1as/d 1g)132,10 129,42 126,46 128,27 126,90
+1aMakanan, Minuman, dan Rokok 35,38 34,77 36,07 38,07 38,11
+1bPakaian dan Alas Kaki 3,48 3,38 3,28 3,26 3,17
+1cPerumahan, Perkakas,
+Perlengkapan dan
+Penyelenggaraan Rumah
+Tangga12,77 12,70 12,13 12,29 11,87
+1dKesehatan dan Pendidikan 9,42 9,31 9,18 8,82 8,84
+1eTransportasi, Komunikasi,
+Rekreasi & Budaya48,61 47,90 45,36 45,35 44,79
+1fHotel dan Restoran 17,39 16,49 15,75 15,93 15,64
+1gLainnya 5,05 4,86 4,70 4,54 4,48
+2Pengeluaran Konsumsi LNPRT 1,41 1,36 1,19 1,15 1,13
+3Pengeluaran Konsumsi Pemerintah 4,31 4,38 4,75 4,26 4,08
+4Pembentukan Modal Tetap Bruto 49,55 49,32 49,93 51,04 53,48
+4aBangunan 41,00 40,84 41,32 42,17 44,14
+4bNon Bangunan 8,55 8,48 8,62 8,87 9,34
+5Perubahan Inventori 3,32 3,14 3,22 3,12 2,94
+6Net Ekspor Impor Antar Daerah (90,69) (87,62) (85,55) (87,84) (88,53)
+PDRB  (1 + 2 + 3 + 4 + 5 + 6 ) 100,00 100,00 100,00 100,00 100,00
+*    Angka S ementara
+**Angka Sangat Sementarahttps://depokkota.bps.go.id
+62Produk Domestik Regional Bru to Kota Depok Menurut Pengeluaran 201 4-2018Tabel 4 Disribusi Persentase Produk Domestik Regional Bruto Atas Dasar
+Harga Konstan 2010Menurut Pengeluaran, Kota Depok 2014-2018
+(Persen)
+KOMPONEN PENGELUARAN 2014 2015 2016 2017* 2018**
+(1) (2) (3) (4) (5) (6)
+1Pengeluaran Konsumsi Rumah
+Tangga (1as/d 1g)135,87 132,58 128,67 128,17 126,41
+1aMakanan, Minuman, dan Rokok 31,81 31,07 30,39 31,74 31,74
+1bPakaian dan Alas Kaki 3,95 3,93 3,84 3,81 3,75
+1cPerumahan, Perkakas ,
+Perlengkapan dan
+Penyelenggaraan Rumah
+Tangga13,38 13,01 12,56 12,40 12,18
+1dKesehatan dan Pendidikan 10,21 10,08 9,83 9,52 9,32
+1eTransportasi, Komunikasi,
+Rekreasi & Budaya51,69 50,29 48,65 47,42 46,34
+1fHotel dan Restoran 19,38 18,88 18,24 18,38 18,19
+1gLainnya 5,46 5,32 5,16 4,89 4,89
+2Pengeluaran Konsumsi LNPRT 1,38 1,34 1,17 1,13 1,11
+3Pengeluaran Konsumsi Pemerintah 3,94 3,88 4,15 3,71 3,60
+4Pembentukan Modal Tetap Bruto 49,79 48,64 49,33 50,10 51,35
+4aBangunan 41,08 40,07 40,77 41,43 42,41
+4bNon Bangunan 8,72 8,56 8,56 8,67 8,93
+5Perubahan Inventori 3,30 2,93 2,83 2,65 2,45
+6Net Ekspor Impor Antar Daerah (94,29) (89,37) (86,14) (85,76) (84,91)
+PDRB  (1 + 2 + 3 + 4 + 5 + 6 ) 100,00 100,00 100,00 100,00 100,00
+*    Angka Sementara
+**  Angka Sangat Sementarahttps://depokkota.bps.go.id
+Produk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 201 4-201863Tabel 5 Laju Pertumbuhan Produk Domestik Regional Bruto Atas Dasar
+Harga Berlaku Menurut Pengeluaran, Kota Depok 2014-2018
+(Persen)
+KOMPONEN PENGELUARAN 2014 2015 2016 2017* 2018**
+(1) (2) (3) (4) (5) (6)
+1Pengeluaran Konsumsi Rumah
+Tangga (1as/d 1g)10,56 8,54 7,37 10,97 9,02
+1aMakanan, Minuman, dan Rokok 12,44 8,87 13,99 15,49 10,30
+1bPakaian dan Alas Kaki 7,59 7,56 6,55 8,90 7,07
+1cPerumahan, Perkakas,
+Perlengkapan dan
+Penyelenggaraan Rumah
+Tangga9,51 10,19 4,91 10,88 6,36
+1dKesehatan dan Pendidikan 10,20 9,51 8,38 5,06 10,47
+1eTransportasi, Komunikasi,
+Rekreasi & Budaya10,42 9,19 4,04 9,39 8,83
+1fHotel dan Restoran 9,82 5,10 4,93 10,66 8,17
+1gLainnya 7,14 6,59 6,12 5,77 8,84
+2Pengeluaran Konsumsi LNPRT 4,80 6,88 (3,44) 5,34 8,68
+3Pengeluaran Konsumsi Pemerintah 11,79 12,70 19,14 (1,81) 5,31
+4Pembentukan Modal Tetap Bruto 12,49 10,27 11,25 11,82 15,46
+4aBangunan 13,41 10,37 11,16 11,66 15,35
+4bNon Bangunan 8,28 9,80 11,70 12,63 15,97
+5Perubahan Inventori 12,39 4,87 12,67 5,89 4,10
+6Net Ekspor Impor Antar Daerah 8,60 7,05 7,29 12,32 11,06
+PDRB  (1 + 2 +3 + 4 + 5 + 6 ) 13,41 10,79 9,89 9,40 10,19
+*    Angka Sementara
+**  Angka Sangat Sementarahttps://depokkota.bps.go.id
+64Produk Domestik Regional Bru to Kota Depok Menurut Pengeluaran 201 4-2018Tabel 6 Laju Pertumbuhan Produk Domestik Regional Bruto Atas Dasar
+HargaKonstan Menurut Pengeluaran, Kota Depok, 2014-2018
+(Persen)
+KOMPONEN PEN GELUARAN 2014 2015 2016 2017* 2018**
+(1) (2) (3) (4) (5) (6)
+1Pengeluaran Konsumsi Rumah
+Tangga (1as/d 1g)4,55 4,06 4,12 6,23 5,36
+1aMakanan, Minuman, dan Rokok 4,17 4,18 4,93 11,39 6,81
+1bPakaian dan Alas Kaki 5,22 6,34 4,84 5,69 5,14
+1cPerumahan, Perkakas,
+Perlengkapan dan
+Penyelenggaraan Rumah
+Tangga3,82 3,68 3,59 5,31 4,93
+1dKesehatan dan Pendidikan 4,83 5,30 4,67 3,20 4,57
+1eTransportasi, Komunikasi ,
+Rekreasi & Budaya3,99 3,74 3,80 3,94 4,39
+1fHotel dan Restoran 7,09 3,89 3,63 7,49 5,72
+1gLainnya 4,06 3,93 3,96 1,24 6,82
+2Pengeluaran Konsumsi LNPRT (2,16) 3,07 (6,14) 2,80 5,14
+3Pengeluaran Konsumsi Pem erintah 3,37 4,79 14,76 (4,44) 3,55
+4Pembentukan Modal Tetap Bruto 4,23 4,16 8,81 8,32 9,47
+4aBangunan 4,43 4,03 9,15 8,38 9,35
+4bNon Bangunan 3,34 4,76 7,24 8,02 10,08
+5Perubahan Inventori 3,30 (5,19) 3,27 0,08 (1,43)
+6Net Ekspor Impor Antar Daerah 1,46 1,07 3,41 6,18 5,76
+PDRB  (1 + 2 + 3 + 4 + 5 + 6 ) 7,28 6,64 7,28 6,65 6,83
+*    Angka Sementara
+**  Angka Sangat Sementarahttps://depokkota.bps.go.id
+Produk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 201 4-201865Tabel 7 Indeks Perkembangan Produk Domest ik Regional Bruto Atas Dasar
+Harga Berlaku Menurut Pengeluaran, Kota Depok, 2014-2018
+(Persen)
+KOMPONEN PENGELUARAN 2014 2015 2016 2017* 2018**
+(1) (2) (3) (4) (5) (6)
+1Pengeluaran Konsumsi Rumah
+Tangga (1as/d 1g)145,97 158,44 170,12 188,77 205,79
+1aMakanan, Minuman, dan Rokok 162,11 176,48 201,17 232,32 256,25
+1bPakaian dan Alas Kaki 135,43 145,67 155,21 169,02 180,97
+1cPerumahan, Perkakas,
+Perlengkapan dan
+Penyelenggaraan Rumah
+Tangga137,74 151,77 159,23 176,56 187,79
+1dKesehatan dan Pendidikan 134,25 147,02 159,34 167,41 184,94
+1eTransportasi, Komunikasi,
+Rekreasi & Budaya142,08 155,14 161,41 176,57 192,16
+1fHotel dan Restoran 140,93 148,12 155,42 171,98 186,04
+1gLainnya 154,72 164,92 175,01 185,10 201,46
+2Pengeluaran Konsumsi LNPRT 148,14 158,33 152,88 161,04 175,03
+3Pengeluaran Konsumsi Pemerintah 154,83 174,50 207,89 204,13 214,97
+4Pembentuka n Modal Tetap Bruto 158,91 175,23 194,95 218,00 251,70
+4aBangunan 164,19 181,22 201,45 224,93 259,46
+4bNon Bangunan 137,67 151,16 168,84 190,16 220,53
+5Perubahan Inventori 125,86 131,99 148,72 157,48 163,94
+6Net Ekspor Impor Antar Daerah 134,70 144,19 154,71 173,77 192,99
+PDRB  (1 + 2 + 3 + 4 + 5 + 6 ) 164,67 182,44 200,48 219,32 241,68
+*    Angka Sementara
+**  Angka Sangat Sementarahttps://depokkota.bps.go.id
+66Produk Domestik Regional Bru to Kota Depok Menurut Pengeluaran 201 4-2018Tabel 8 Indeks Perkembangan Produk Do mestik Re gional Bruto Atas Dasar
+Harga Konstan Menurut Pengeluaran, Kota Depok 2014-2018
+(Persen)
+KOMPONEN PENGELUARAN 2014 2015 2016 2017* 2018**
+(1) (2) (3) (4) (5) (6)
+1Pengeluaran Konsumsi Rumah
+Tangga (1as/d 1g)120,62 125,51 130,69 138,82 146,26
+1aMakanan, Minuman, dan Rokok 117,08 121,97 127,98 142,56 152,26
+1bPakaian dan Alas Kaki 123,30 131,12 137,47 145,29 152,76
+1cPerumahan, Perkakas,
+Perlengkapan dan
+Penyelenggaraan Rumah
+Tangga115,91 120,18 124,49 131,10 137,56
+1dKesehatan dan Pendidikan 116,94 123,13 128,88 133,00 139,08
+1eTransportasi, Komunikasi,
+Rekreasi & Budaya121,39 125,94 130,72 135,87 141,83
+1fHotel dan Restoran 126,18 131,09 135,85 146,03 154,38
+1gLainnya 134,24 139,51 145,04 146,84 156,86
+2Pengeluaran Konsumsi LNPRT 116,85 120,43 113,04 116,20 122,18
+3Pengeluaran Konsumsi Pemerintah 113,87 119,32 136,93 130,85 135,49
+4Pembentukan Modal Tetap Bruto 128,29 133,63 145,40 157,50 172,42
+4aBangunan 132,17 137,50 150,07 162,66 177,86
+4bNon Bangunan 112,70 118,06 126,61 136,77 150,55
+5Perubahan Inventori 100,60 95,38 98,50 98,58 97,17
+6Net Ekspor Impor Antar Daerah 112,52 113,72 117,61 124,87 132,06
+PDRB  (1 + 2 + 3 + 4 + 5 + 6 ) 132,29 141,08 151,36 161,41 172,43
+*    Angka Sementara
+**  Angka Sangat Sementarahttps://depokkota.bps.go.id
+Produk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 201 4-201867Tabel 9 Indeks Perkembangan  Implis it Produk Domestik Regional Bruto
+(2010=100) Menurut Pengeluaran, Kota Depok 2014-2018
+(Persen)
+KOMPONEN PENGELUARAN 2014 2015 2016 2017* 2018**
+(1) (2) (3) (4) (5) (6)
+1Pengeluaran Konsumsi Rumah
+Tangga (1as/d 1g)121,02 126,23 130,17 135,98 140,70
+1aMakanan, Minuman, dan Rokok 138,46 144,69 157,18 162,97 168,30
+1bPakaian dan Alas Kaki 109,84 111,10 112,90 116,34 118,47
+1cPerumahan, Perkakas,
+Perlengkapan dan
+Penyelenggaraan Rumah
+Tangga118,84 126,29 127,91 134,67 136,51
+1dKesehatan dan Pendidikan 114,81 119,40 123,63 125,87 132,98
+1eTransportasi, Komunikasi,
+Rekreasi & Budaya117,04 123,19 123,49 129,95 135,48
+1fHotel dan Restoran 111,69 112,99 114,41 117,77 120,51
+1gLainnya 115,25 118,21 120,66 126,05 128,44
+2Pengeluaran Konsumsi LNPRT 126,78 131,47 135,24 138,59 143,25
+3Pengeluaran Konsumsi Pemerintah 135,98 146,24 151,82 156,00 158,67
+4Pembentukan Modal Tetap Bruto 123,87 131,14 134,08 138,42 145,98
+4aBangunan 124,23 131,80 134,23 138,28 145,88
+4bNon Bangunan 122,16 128,03 133,35 139,04 146,48
+5Perubahan Inventori 125,11 138,38 150,98 159,75 168,71
+6Net Ekspor Impor Antar Daerah 119,71 126,79 131,55 139,16 146,14
+PDRB  (1 + 2 + 3 + 4 + 5 + 6 ) 124,47 129,32 132,46 135,88 140,16
+*    Angka Sementara
+**  Angka Sangat Sementarahttps://depokkota.bps.go.id
+68Produk Domestik Regional Bru to Kota Depok Menurut Pengeluaran 201 4-2018Tabel 10 LajuPertumbuhan Indeks Harga Implisit Produk Domestik Regional
+Bruto (2010=100) Menurut Pengeluaran, Kota Depok 2014-2018
+(Persen)
+KOMPONEN PENGELUARAN 2014 2015 2016 2017* 2018**
+(1) (2) (3) (4) (5) (6)
+1Pengeluaran Konsumsi Rumah
+Tangga (1as/d 1g)5,75 4,31 3,12 4,46 3,47
+1aMakanan, Minuman, dan Rokok 7,94 4,50 8,64 3,68 3,27
+1bPakaian dan Alas Kaki 2,25 1,14 1,63 3,04 1,83
+1cPerumahan, Perkakas,
+Perlengkapan dan
+Penyelenggaraan Rumah
+Tangga5,49 6,27 1,28 5,29 1,37
+1dKesehatan dan Pendidikan 5,13 4,00 3,55 1,80 5,65
+1eTransportasi, Komunikasi,
+Rekreasi & Budaya6,19 5,25 0,24 5,23 4,26
+1fHotel dan Restoran 2,55 1,16 1,25 2,94 2,33
+1gLainnya 2,96 2,57 2,07 4,47 1,89
+2Pengeluaran Konsumsi LNPRT 7,12 3,70 2,87 2,47 3,37
+3Pengeluaran Konsumsi Pemerintah 8,14 7,55 3,81 2,75 1,71
+4Pembentukan Modal Tetap Bruto 7,92 5,87 2,25 3,23 5,47
+4aBangunan 8,60 6,09 1,85 3,02 5,49
+4bNon Bangunan 4,78 4,81 4,15 4,26 5,35
+5Perubahan Inventori 8,79 10,61 9,10 5,81 5,61
+6Net Ekspor Impor Antar Daerah 7,04 5,91 3,75 5,79 5,01
+PDRB  (1 + 2 + 3 + 4 +5 + 6 ) 5,72 3,89 2,43 2,58 3,15
+*    Angka Sementara
+**  Angka Sangat Sementarahttps://depokkota.bps.go.id
+Produk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 201 4-201869DAFTAR
+PUSTAKAhttps://depokkota.bps.go.id
+70Produk Domestik Regional Bru to Kota Depok Menurut Pengeluaran 201 4-2018https://depokkota.bps.go.id
+Produk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 201 4-201871DAFTAR PUSTAKA
+1.Badan  Pusat  Statistik, Tabel Input Output Indonesia , berbagai seri, Jakarta.
+2. ,Pendapatan Nasional Indonesia , berbagai seri, Jakarta.
+3. ,Statistik Matriks Investasi Pemerintah Pusat , berbagai
+seri, Jakarta.
+4. ,Profil Ekonomi Rumahtangga 1998 ,  Jakarta 1999.
+5.  Frenken Jim, How To Measure Tangible Capital Stoc ks, Netherlands, 1992.
+6.  Host Poul, Madsen, Macroeconomic Accounts An Overview , Pamphlet Series, No.
+29, Washington DC, 1979.
+7.  Keuning. J. Steven, An Estimate of the Fixed Capital S tockBy Industry and Types
+of Capital Goods in Indonesia ,Statistical Analysis Capability Program, Project
+Working Paper, Series No.4, Jakarta 1988.
+8. ,Input-Output  Table and Analysis , Studies in Methods,
+Series F No. 14 Rev1, New York, 1973.
+9. ,Handbook of National Accounting for Production , Sources
+and Methods, Series F No. 39, New York, 1986.
+10.  Verbiest Piet, Investment Matrix , Hasil Kerjasama Asian Development Bank
+dengan Badan Pusat Sta tistik, Jakarta, 1997.
+11.  Ward, Michael, The Measurement of Capital: Methodology  of Capital Stock
+Estimates in OECD Countries , Paris, 1976.https://depokkota.bps.go.id
+Produk Domestik Regional Bruto Kota Depok Menurut Pengeluaran 201 4-201873
+https://depokkota.bps.go.id
